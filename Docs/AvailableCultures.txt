@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<SmartCultureCollections xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <version>0</version>
+  <CultureInfos>
+    <CultureInfo>
+      <languageCode>en</languageCode>
+      <englishName>English</englishName>
+      <nativeName>English</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>ru</languageCode>
+      <englishName>Russian</englishName>
+      <nativeName>Русский</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>uk</languageCode>
+      <englishName>Ukrainian</englishName>
+      <nativeName>Українська</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>pt-BR</languageCode>
+      <englishName>Portuguese (Brazil)</englishName>
+      <nativeName>português (Brasil)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+    <CultureInfo>
+      <languageCode>tr-TR</languageCode>
+      <englishName>Turkish (Turkey)</englishName>
+      <nativeName>Türkçe (Türkiye)</nativeName>
+      <isRightToLeft>false</isRightToLeft>
+    </CultureInfo>
+  </CultureInfos>
+</SmartCultureCollections>

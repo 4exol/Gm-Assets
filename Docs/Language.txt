@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<root><!-- 
+    Microsoft ResX Schema 
+    
+    Version 2.0
+    
+    The primary goals of this format is to allow a simple XML format 
+    that is mostly human readable. The generation and parsing of the 
+    various data types are done through the TypeConverter classes 
+    associated with the data types.
+    
+    Example:
+    
+    ... ado.net/XML headers & schema ...
+    <resheader name="resmimetype">text/microsoft-resx</resheader>
+    <resheader name="version">2.0</resheader>
+    <resheader name="reader">System.Resources.ResXResourceReader, System.Windows.Forms, ...</resheader>
+    <resheader name="writer">System.Resources.ResXResourceWriter, System.Windows.Forms, ...</resheader>
+    <data name="Name1"><value>this is my long string</value><comment>this is a comment</comment></data>
+    <data name="Color1" type="System.Drawing.Color, System.Drawing">Blue</data>
+    <data name="Bitmap1" mimetype="application/x-microsoft.net.object.binary.base64">
+        <value>[base64 mime encoded serialized .NET Framework object]</value>
+    </data>
+    <data name="Icon1" type="System.Drawing.Icon, System.Drawing" mimetype="application/x-microsoft.net.object.bytearray.base64">
+        <value>[base64 mime encoded string representing a byte array form of the .NET Framework object]</value>
+        <comment>This is a comment</comment>
+    </data>
+                
+    There are any number of "resheader" rows that contain simple 
+    name/value pairs.
+    
+    Each data row contains a name, and value. The row also contains a 
+    type or mimetype. Type corresponds to a .NET class that support 
+    text/value conversion through the TypeConverter architecture. 
+    Classes that don't support this are serialized and stored with the 
+    mimetype set.
+    
+    The mimetype is used for serialized objects, and tells the 
+    ResXResourceReader how to depersist the object. This is currently not 
+    extensible. For a given mimetype the value must be set accordingly:
+    
+    Note - application/x-microsoft.net.object.binary.base64 is the format 
+    that the ResXResourceWriter will generate, however the reader can 
+    read any of the formats listed below.
+    
+    mimetype: application/x-microsoft.net.object.binary.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Binary.BinaryFormatter
+            : and then encoded with base64 encoding.
+    
+    mimetype: application/x-microsoft.net.object.soap.base64
+    value   : The object must be serialized with 
+            : System.Runtime.Serialization.Formatters.Soap.SoapFormatter
+            : and then encoded with base64 encoding.
+
+    mimetype: application/x-microsoft.net.object.bytearray.base64
+    value   : The object must be serialized into a byte array 
+            : using a System.ComponentModel.TypeConverter
+            : and then encoded with base64 encoding.
+    -->
+  <xsd:schema id="root" xmlns="" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xsd:import namespace="http://www.w3.org/XML/1998/namespace" />
+    <xsd:element name="root" msdata:IsDataSet="true">
+      <xsd:complexType>
+        <xsd:choice maxOccurs="unbounded">
+          <xsd:element name="metadata">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" />
+              </xsd:sequence>
+              <xsd:attribute name="name" use="required" type="xsd:string" />
+              <xsd:attribute name="type" type="xsd:string" />
+              <xsd:attribute name="mimetype" type="xsd:string" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="assembly">
+            <xsd:complexType>
+              <xsd:attribute name="alias" type="xsd:string" />
+              <xsd:attribute name="name" type="xsd:string" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="data">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+                <xsd:element name="comment" type="xsd:string" minOccurs="0" msdata:Ordinal="2" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" msdata:Ordinal="1" />
+              <xsd:attribute name="type" type="xsd:string" msdata:Ordinal="3" />
+              <xsd:attribute name="mimetype" type="xsd:string" msdata:Ordinal="4" />
+              <xsd:attribute ref="xml:space" />
+            </xsd:complexType>
+          </xsd:element>
+          <xsd:element name="resheader">
+            <xsd:complexType>
+              <xsd:sequence>
+                <xsd:element name="value" type="xsd:string" minOccurs="0" msdata:Ordinal="1" />
+              </xsd:sequence>
+              <xsd:attribute name="name" type="xsd:string" use="required" />
+            </xsd:complexType>
+          </xsd:element>
+        </xsd:choice>
+      </xsd:complexType>
+    </xsd:element>
+  </xsd:schema>
+  <resheader name="resmimetype">
+    <value>text/microsoft-resx</value>
+  </resheader>
+  <resheader name="version">
+    <value>2.0</value>
+  </resheader>
+  <resheader name="reader">
+    <value>System.Resources.ResXResourceReader, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+  <resheader name="writer">
+    <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
+  </resheader>
+	<data name="10 Cups Of Coffee To Developer" xml:space="preserve">
+		<value>10 Cups Of Coffee To Developer</value>
+	</data>
+	<data name="3 Cups Of Coffee To Developer" xml:space="preserve">
+		<value>3 Cups Of Coffee To Developer</value>
+	</data>
+	<data name="50 Cups Of Coffee To Developer" xml:space="preserve">
+		<value>50 Cups Of Coffee To Developer</value>
+	</data>
+	<data name="Accept" xml:space="preserve">
+		<value>Accept</value>
+	</data>
+	<data name="ACCEPT" xml:space="preserve">
+		<value>ACCEPT</value>
+	</data>
+	<data name="AccountBanned" xml:space="preserve">
+		<value>AccountBanned</value>
+	</data>
+	<data name="AccountDeleted" xml:space="preserve">
+		<value>AccountDeleted</value>
+	</data>
+	<data name="AccountNotFound" xml:space="preserve">
+		<value>AccountNotFound</value>
+	</data>
+	<data name="ACTION" xml:space="preserve">
+		<value>ACTION</value>
+	</data>
+	<data name="ACTIVITY :" xml:space="preserve">
+		<value>ACTIVITY :</value>
+	</data>
+	<data name="AD Case" xml:space="preserve">
+		<value>AD Case</value>
+	</data>
+	<data name="AD Coin" xml:space="preserve">
+		<value>AD Coin</value>
+	</data>
+	<data name="AD Love To Developer" xml:space="preserve">
+		<value>AD Love To Developer</value>
+	</data>
+	<data name="AD VIP" xml:space="preserve">
+		<value>AD VIP</value>
+	</data>
+	<data name="ADD" xml:space="preserve">
+		<value>ADD</value>
+	</data>
+	<data name="Add Friend" xml:space="preserve">
+		<value>Add Friend</value>
+	</data>
+	<data name="ADD FRIEND" xml:space="preserve">
+		<value>ADD FRIEND</value>
+	</data>
+	<data name="ADD ITEMS" xml:space="preserve">
+		<value>ADD ITEMS</value>
+	</data>
+	<data name="ALERT" xml:space="preserve">
+		<value>ALERT</value>
+	</data>
+	<data name="All" xml:space="preserve">
+		<value>All</value>
+	</data>
+	<data name="Already registered?" xml:space="preserve">
+		<value>Already registered?</value>
+	</data>
+	<data name="Alredy have this weapon" xml:space="preserve">
+		<value>Alredy have this weapon</value>
+	</data>
+	<data name="Animal Planet Hats Pack" xml:space="preserve">
+		<value>Animal Planet Hats Pack</value>
+	</data>
+	<data name="APPLY" xml:space="preserve">
+		<value>APPLY</value>
+	</data>
+	<data name="ArmsRace" xml:space="preserve">
+		<value>ArmsRace</value>
+	</data>
+	<data name="AVATAR" xml:space="preserve">
+		<value>AVATAR</value>
+	</data>
+	<data name="Avatar must be :" xml:space="preserve">
+		<value>Avatar must be :</value>
+	</data>
+	<data name="awards" xml:space="preserve">
+		<value>awards</value>
+	</data>
+	<data name="Awards" xml:space="preserve">
+		<value>Awards</value>
+	</data>
+	<data name="AWARDS :" xml:space="preserve">
+		<value>AWARDS :</value>
+	</data>
+	<data name="Awards count" xml:space="preserve">
+		<value>Awards count</value>
+	</data>
+	<data name="AWARDS LIST EMPTY" xml:space="preserve">
+		<value>AWARDS LIST EMPTY</value>
+	</data>
+	<data name="BACK" xml:space="preserve">
+		<value>BACK</value>
+	</data>
+	<data name="BAN" xml:space="preserve">
+		<value>BAN</value>
+	</data>
+	<data name="BAN PLAYER" xml:space="preserve">
+		<value>BAN PLAYER</value>
+	</data>
+	<data name="BattleRoyale" xml:space="preserve">
+		<value>BattleRoyale</value>
+	</data>
+	<data name="BENEFIT" xml:space="preserve">
+		<value>BENEFIT</value>
+	</data>
+	<data name="BEST PRICE FOR COOL PLAYERS" xml:space="preserve">
+		<value>BEST PRICE FOR COOL PLAYERS</value>
+	</data>
+	<data name="Big Chest of Coins" xml:space="preserve">
+		<value>Big Chest of Coins</value>
+	</data>
+	<data name="BLUE" xml:space="preserve">
+		<value>BLUE</value>
+	</data>
+	<data name="Body" xml:space="preserve">
+		<value>Body</value>
+	</data>
+	<data name="Bodyguard" xml:space="preserve">
+		<value>Bodyguard</value>
+	</data>
+	<data name="BODYGUARD" xml:space="preserve">
+		<value>BODYGUARD</value>
+	</data>
+	<data name="BONUS" xml:space="preserve">
+		<value>BONUS</value>
+	</data>
+	<data name="BOX WHITH SURPRIZE INSIDE" xml:space="preserve">
+		<value>BOX WHITH SURPRIZE INSIDE</value>
+	</data>
+	<data name="Bright" xml:space="preserve">
+		<value>Bright</value>
+	</data>
+	<data name="Bundles" xml:space="preserve">
+		<value>Bundles</value>
+	</data>
+	<data name="But you can" xml:space="preserve">
+		<value>But you can be first  :)
+CREATE own server</value>
+	</data>
+	<data name="ButtonsWarning" xml:space="preserve">
+		<value>ButtonsWarning</value>
+	</data>
+	<data name="BUY" xml:space="preserve">
+		<value>BUY</value>
+	</data>
+	<data name="BUY NOW" xml:space="preserve">
+		<value>BUY NOW</value>
+	</data>
+	<data name="By clicking on the button &quot;NO&quot; you confirm  that you are 18 or older" xml:space="preserve">
+		<value>By clicking on the button "NO" you confirm 
+that you are 18 or older</value>
+	</data>
+	<data name="Bystander" xml:space="preserve">
+		<value>Bystander</value>
+	</data>
+	<data name="BYSTANDER" xml:space="preserve">
+		<value>BYSTANDER</value>
+	</data>
+	<data name="Bystanders" xml:space="preserve">
+		<value>Bystanders</value>
+	</data>
+	<data name="CAN'T CONNECT" xml:space="preserve">
+		<value>CAN'T CONNECT</value>
+	</data>
+	<data name="CAPACITY" xml:space="preserve">
+		<value>CAPACITY</value>
+	</data>
+	<data name="Carnage" xml:space="preserve">
+		<value>Carnage</value>
+	</data>
+	<data name="Cases" xml:space="preserve">
+		<value>Cases</value>
+	</data>
+	<data name="caught" xml:space="preserve">
+		<value>caught</value>
+	</data>
+	<data name="Caught" xml:space="preserve">
+		<value>Caught</value>
+	</data>
+	<data name="CHANGE" xml:space="preserve">
+		<value>CHANGE</value>
+	</data>
+	<data name="CHANGE AVATAR" xml:space="preserve">
+		<value>CHANGE AVATAR</value>
+	</data>
+	<data name="Change Buttons" xml:space="preserve">
+		<value>Change Buttons</value>
+	</data>
+	<data name="CHANGE MAP" xml:space="preserve">
+		<value>CHANGE MAP</value>
+	</data>
+	<data name="Change map to" xml:space="preserve">
+		<value>Change map to</value>
+	</data>
+	<data name="CHANGE NAME" xml:space="preserve">
+		<value>CHANGE NAME</value>
+	</data>
+	<data name="CHANGE SKIN" xml:space="preserve">
+		<value>CHANGE SKIN</value>
+	</data>
+	<data name="CHARACTER" xml:space="preserve">
+		<value>CHARACTER</value>
+	</data>
+	<data name="CHARITY" xml:space="preserve">
+		<value>CHARITY</value>
+	</data>
+	<data name="Check internet conection" xml:space="preserve">
+		<value>Check internet conection</value>
+	</data>
+	<data name="Chest of Coins" xml:space="preserve">
+		<value>Chest of Coins</value>
+	</data>
+	<data name="Civilian" xml:space="preserve">
+		<value>Civilian</value>
+	</data>
+	<data name="CIVILIAN" xml:space="preserve">
+		<value>CIVILIAN</value>
+	</data>
+	<data name="Civilians" xml:space="preserve">
+		<value>Civilians</value>
+	</data>
+	<data name="Clan" xml:space="preserve">
+		<value>Clan</value>
+	</data>
+	<data name="Class :" xml:space="preserve">
+		<value>Class :</value>
+	</data>
+	<data name="Classic Case" xml:space="preserve">
+		<value>Classic Case</value>
+	</data>
+	<data name="Clear" xml:space="preserve">
+		<value>Clear</value>
+	</data>
+	<data name="Click here to enter you message..." xml:space="preserve">
+		<value>Click here to enter you message...</value>
+	</data>
+	<data name="CLIP" xml:space="preserve">
+		<value>CLIP</value>
+	</data>
+	<data name="CLOSE" xml:space="preserve">
+		<value>CLOSE</value>
+	</data>
+	<data name="Clothes" xml:space="preserve">
+		<value>Clothes</value>
+	</data>
+	<data name="CLOTHES" xml:space="preserve">
+		<value>CLOTHES</value>
+	</data>
+	<data name="Clothes Case #1" xml:space="preserve">
+		<value>Clothes Case #1</value>
+	</data>
+	<data name="Clothes Case #2" xml:space="preserve">
+		<value>Clothes Case #2</value>
+	</data>
+	<data name="CLOTHES0" xml:space="preserve">
+		<value>CLOTHES</value>
+	</data>
+	<data name="COMING SOON" xml:space="preserve">
+		<value>COMING SOON</value>
+	</data>
+	<data name="CONFIRM" xml:space="preserve">
+		<value>CONFIRM</value>
+	</data>
+	<data name="CONNECT" xml:space="preserve">
+		<value>CONNECT</value>
+	</data>
+	<data name="connected" xml:space="preserve">
+		<value>connected</value>
+	</data>
+	<data name="CONNECTION" xml:space="preserve">
+		<value>CONNECTION</value>
+	</data>
+	<data name="ConnectionError0" xml:space="preserve">
+		<value>ConnectionError0</value>
+	</data>
+	<data name="ConnectionError1" xml:space="preserve">
+		<value>ConnectionError1</value>
+	</data>
+	<data name="ConnectionError2" xml:space="preserve">
+		<value>ConnectionError2</value>
+	</data>
+	<data name="ConnectionError3" xml:space="preserve">
+		<value>ConnectionError3</value>
+	</data>
+	<data name="ConnectionErrorInfo0" xml:space="preserve">
+		<value>ConnectionErrorInfo0</value>
+	</data>
+	<data name="ConnectionErrorInfo1" xml:space="preserve">
+		<value>ConnectionErrorInfo1</value>
+	</data>
+	<data name="ConnectionErrorInfo2" xml:space="preserve">
+		<value>ConnectionErrorInfo2</value>
+	</data>
+	<data name="ConnectionErrorInfo3" xml:space="preserve">
+		<value>ConnectionErrorInfo3</value>
+	</data>
+	<data name="Construction" xml:space="preserve">
+		<value>Construction</value>
+	</data>
+	<data name="CONTINUE" xml:space="preserve">
+		<value>CONTINUE</value>
+	</data>
+	<data name="COOL!" xml:space="preserve">
+		<value>COOL!</value>
+	</data>
+	<data name="Country" xml:space="preserve">
+		<value>Country</value>
+	</data>
+	<data name="CRAFT" xml:space="preserve">
+		<value>CRAFT</value>
+	</data>
+	<data name="CREATE" xml:space="preserve">
+		<value>CREATE</value>
+	</data>
+	<data name="CREATE  SERVER" xml:space="preserve">
+		<value>CREATE  SERVER</value>
+	</data>
+	<data name="Create new" xml:space="preserve">
+		<value>Create new</value>
+	</data>
+	<data name="Creator :" xml:space="preserve">
+		<value>Creator :</value>
+	</data>
+	<data name="Cup Of Coffee To Developer" xml:space="preserve">
+		<value>Cup Of Coffee To Developer</value>
+	</data>
+	<data name="DAMAGE" xml:space="preserve">
+		<value>DAMAGE</value>
+	</data>
+	<data name="Dance" xml:space="preserve">
+		<value>Dance</value>
+	</data>
+	<data name="Dance Case #1" xml:space="preserve">
+		<value>Dance Case #1</value>
+	</data>
+	<data name="DANCES" xml:space="preserve">
+		<value>DANCES</value>
+	</data>
+	<data name="Dangerous Match" xml:space="preserve">
+		<value>Dangerous Match</value>
+	</data>
+	<data name="Dark" xml:space="preserve">
+		<value>Dark</value>
+	</data>
+	<data name="day" xml:space="preserve">
+		<value>day</value>
+	</data>
+	<data name="DEACTIVATE" xml:space="preserve">
+		<value>DEACTIVATE</value>
+	</data>
+	<data name="DEAD" xml:space="preserve">
+		<value>DEAD</value>
+	</data>
+	<data name="Deal available :" xml:space="preserve">
+		<value>Deal available :</value>
+	</data>
+	<data name="Deals" xml:space="preserve">
+		<value>Deals</value>
+	</data>
+	<data name="DeathMatch" xml:space="preserve">
+		<value>DeathMatch</value>
+	</data>
+	<data name="DeathMatchRules" xml:space="preserve">
+		<value>DeathMatchRules</value>
+	</data>
+	<data name="DeathRun" xml:space="preserve">
+		<value>DeathRun</value>
+	</data>
+	<data name="Deaths" xml:space="preserve">
+		<value>Deaths</value>
+	</data>
+	<data name="Decline" xml:space="preserve">
+		<value>Decline</value>
+	</data>
+	<data name="Default" xml:space="preserve">
+		<value>Default</value>
+	</data>
+	<data name="DENY" xml:space="preserve">
+		<value>DENY</value>
+	</data>
+	<data name="Detective" xml:space="preserve">
+		<value>Detective</value>
+	</data>
+	<data name="DETECTIVE" xml:space="preserve">
+		<value>DETECTIVE</value>
+	</data>
+	<data name="Developer on server:" xml:space="preserve">
+		<value>Developer on server:</value>
+	</data>
+	<data name="Dialogs" xml:space="preserve">
+		<value>Dialogs</value>
+	</data>
+	<data name="DISABLE" xml:space="preserve">
+		<value>DISABLE</value>
+	</data>
+	<data name="DISABLE GAMES" xml:space="preserve">
+		<value>DISABLE GAMES</value>
+	</data>
+	<data name="DISABLE MENU" xml:space="preserve">
+		<value>DISABLE MENU</value>
+	</data>
+	<data name="DISABLED" xml:space="preserve">
+		<value>DISABLED</value>
+	</data>
+	<data name="disconnected" xml:space="preserve">
+		<value>disconnected</value>
+	</data>
+	<data name="DMgeneral" xml:space="preserve">
+		<value>DMgeneral</value>
+	</data>
+	<data name="DMplayer" xml:space="preserve">
+		<value>DMplayer</value>
+	</data>
+	<data name="Do you really" xml:space="preserve">
+		<value>Do you really want to quit?</value>
+	</data>
+	<data name="Do you really want" xml:space="preserve">
+		<value>Do you really want to quit the game?</value>
+	</data>
+	<data name="Do you realy want To delete" xml:space="preserve">
+		<value>Do you realy want
+To delete</value>
+	</data>
+	<data name="DO YOU WANT TO SETUP PARENT CONTROL?" xml:space="preserve">
+		<value>DO YOU WANT TO SETUP
+PARENT CONTROL?</value>
+	</data>
+	<data name="doLOGIN" xml:space="preserve">
+		<value>doLOGIN</value>
+	</data>
+	<data name="Donate" xml:space="preserve">
+		<value>Donate</value>
+	</data>
+	<data name="DONATE" xml:space="preserve">
+		<value>DONATE</value>
+	</data>
+	<data name="DONATIONS TO DEVELOP THE UPDATE" xml:space="preserve">
+		<value>DONATIONS TO DEVELOP THE UPDATE</value>
+	</data>
+	<data name="DONE" xml:space="preserve">
+		<value>DONE</value>
+	</data>
+	<data name="doSIGN UP" xml:space="preserve">
+		<value>doSIGN UP
+</value>
+	</data>
+	<data name="DRESS UP" xml:space="preserve">
+		<value>DRESS UP</value>
+	</data>
+	<data name="Duration" xml:space="preserve">
+		<value>Duration</value>
+	</data>
+	<data name="Duration :" xml:space="preserve">
+		<value>Duration :</value>
+	</data>
+	<data name="EASY" xml:space="preserve">
+		<value>EASY</value>
+	</data>
+	<data name="Email" xml:space="preserve">
+		<value>Email</value>
+	</data>
+	<data name="EmailAddressNotAvailable" xml:space="preserve">
+		<value>EmailAddressNotAvailable</value>
+	</data>
+	<data name="ENABLE" xml:space="preserve">
+		<value>ENABLE</value>
+	</data>
+	<data name="Enter 4 numbers" xml:space="preserve">
+		<value>Enter 4 numbers</value>
+	</data>
+	<data name="Enter avatar URL " xml:space="preserve">
+		<value>Enter avatar URL </value>
+	</data>
+	<data name="Enter link here..." xml:space="preserve">
+		<value>Enter link here...</value>
+	</data>
+	<data name="Enter new nickname here..." xml:space="preserve">
+		<value>Enter new nickname here...</value>
+	</data>
+	<data name="Enter password reset email :" xml:space="preserve">
+		<value>Enter password reset email :</value>
+	</data>
+	<data name="Enter password..." xml:space="preserve">
+		<value>Enter password...</value>
+	</data>
+	<data name="Enter pin" xml:space="preserve">
+		<value>Enter pin</value>
+	</data>
+	<data name="Enter promo code" xml:space="preserve">
+		<value>Enter promo code</value>
+	</data>
+	<data name="Enter referral code" xml:space="preserve">
+		<value>Enter referral code</value>
+	</data>
+	<data name="Enter user nickname" xml:space="preserve">
+		<value>Enter user nickname</value>
+	</data>
+	<data name="Enter your email from registration" xml:space="preserve">
+		<value>Enter your email from registration</value>
+	</data>
+	<data name="EQIPMENT" xml:space="preserve">
+		<value>EQIPMENT</value>
+	</data>
+	<data name="Evidences" xml:space="preserve">
+		<value>Evidences</value>
+	</data>
+	<data name="Exit" xml:space="preserve">
+		<value>Exit</value>
+	</data>
+	<data name="FAST" xml:space="preserve">
+		<value>FAST</value>
+	</data>
+	<data name="Favorite" xml:space="preserve">
+		<value>Favorite</value>
+	</data>
+	<data name="Filter" xml:space="preserve">
+		<value>Filter</value>
+	</data>
+	<data name="FILTERS" xml:space="preserve">
+		<value>FILTERS</value>
+	</data>
+	<data name="FIRE RATE" xml:space="preserve">
+		<value>FIRE RATE</value>
+	</data>
+	<data name="First seeker" xml:space="preserve">
+		<value>First seeker</value>
+	</data>
+	<data name="FOR PURCHASE" xml:space="preserve">
+		<value>FOR PURCHASE</value>
+	</data>
+	<data name="For Real PRO" xml:space="preserve">
+		<value>For Real PRO</value>
+	</data>
+	<data name="FOR WATCHING" xml:space="preserve">
+		<value>FOR WATCHING</value>
+	</data>
+	<data name="FORGOT PASSWORD?" xml:space="preserve">
+		<value>FORGOT PASSWORD?</value>
+	</data>
+	<data name="FREE" xml:space="preserve">
+		<value>FREE</value>
+	</data>
+	<data name="Friend" xml:space="preserve">
+		<value>Friend</value>
+	</data>
+	<data name="friends" xml:space="preserve">
+		<value>friends</value>
+	</data>
+	<data name="Friends" xml:space="preserve">
+		<value>Friends</value>
+	</data>
+	<data name="FRIENDS" xml:space="preserve">
+		<value>FRIENDS</value>
+	</data>
+	<data name="FRIENDS LIST IS EMPTY" xml:space="preserve">
+		<value>FRIENDS LIST
+IS EMPTY</value>
+	</data>
+	<data name="FRIENDSHIP" xml:space="preserve">
+		<value>FRIENDSHIP</value>
+	</data>
+	<data name="Frienship requested" xml:space="preserve">
+		<value>Frienship requested</value>
+	</data>
+	<data name="game rules" xml:space="preserve">
+		<value>game rules</value>
+	</data>
+	<data name="GAME SETTINGS" xml:space="preserve">
+		<value>GAME SETTINGS</value>
+	</data>
+	<data name="Games" xml:space="preserve">
+		<value>Games</value>
+	</data>
+	<data name="General" xml:space="preserve">
+		<value>General</value>
+	</data>
+	<data name="GENERAL RULES" xml:space="preserve">
+		<value>GENERAL RULES</value>
+	</data>
+	<data name="GET IT" xml:space="preserve">
+		<value>GET IT</value>
+	</data>
+	<data name="GET MORE" xml:space="preserve">
+		<value>GET MORE</value>
+	</data>
+	<data name="GIFTS" xml:space="preserve">
+		<value>GIFTS</value>
+	</data>
+	<data name="GiftsFarming" xml:space="preserve">
+		<value>GiftsFarming</value>
+	</data>
+	<data name="GiftsFarmingRules" xml:space="preserve">
+		<value>GiftsFarmingRules</value>
+	</data>
+	<data name="Gold" xml:space="preserve">
+		<value>Gold</value>
+	</data>
+	<data name="GOLD" xml:space="preserve">
+		<value>GOLD</value>
+	</data>
+	<data name="Gold Stack" xml:space="preserve">
+		<value>Gold Stack</value>
+	</data>
+	<data name="Good" xml:space="preserve">
+		<value>Good</value>
+	</data>
+	<data name="got" xml:space="preserve">
+		<value>got</value>
+	</data>
+	<data name="Got caught" xml:space="preserve">
+		<value>Got caught</value>
+	</data>
+	<data name="Graphics" xml:space="preserve">
+		<value>Graphics</value>
+	</data>
+	<data name="GRAPHICS" xml:space="preserve">
+		<value>GRAPHICS</value>
+	</data>
+	<data name="Graphics Settings" xml:space="preserve">
+		<value>Graphics Settings</value>
+	</data>
+	<data name="Handful of Coins" xml:space="preserve">
+		<value>Handful of Coins</value>
+	</data>
+	<data name="Happy Birthday, Dev!" xml:space="preserve">
+		<value>Happy Birthday, Dev!</value>
+	</data>
+	<data name="HARD" xml:space="preserve">
+		<value>HARD</value>
+	</data>
+	<data name="Hat" xml:space="preserve">
+		<value>Hat</value>
+	</data>
+	<data name="Hero" xml:space="preserve">
+		<value>Hero</value>
+	</data>
+	<data name="HERO" xml:space="preserve">
+		<value>HERO</value>
+	</data>
+	<data name="Heroes" xml:space="preserve">
+		<value>Heroes</value>
+	</data>
+	<data name="HGgeneral" xml:space="preserve">
+		<value>HGgeneral</value>
+	</data>
+	<data name="HGwarrior" xml:space="preserve">
+		<value>HGwarrior</value>
+	</data>
+	<data name="Hide And Seek" xml:space="preserve">
+		<value>Hide And Seek</value>
+	</data>
+	<data name="HideAndSeek" xml:space="preserve">
+		<value>HideAndSeek</value>
+	</data>
+	<data name="HideAndSeekRules" xml:space="preserve">
+		<value>HideAndSeekRules</value>
+	</data>
+	<data name="Hiders" xml:space="preserve">
+		<value>Hiders</value>
+	</data>
+	<data name="HIDING" xml:space="preserve">
+		<value>HIDING</value>
+	</data>
+	<data name="HNSGeneral" xml:space="preserve">
+		<value>HNSGeneral</value>
+	</data>
+	<data name="HNSHider" xml:space="preserve">
+		<value>HNSHider</value>
+	</data>
+	<data name="HNSSeaker" xml:space="preserve">
+		<value>HNSSeaker</value>
+	</data>
+	<data name="HOW TO PLAY" xml:space="preserve">
+		<value>HOW TO PLAY</value>
+	</data>
+	<data name="HungerGames" xml:space="preserve">
+		<value>HungerGames</value>
+	</data>
+	<data name="HungerGamesRules" xml:space="preserve">
+		<value>HungerGamesRules</value>
+	</data>
+	<data name="IMCivilian" xml:space="preserve">
+		<value>IMCivilian</value>
+	</data>
+	<data name="IMImpostor" xml:space="preserve">
+		<value>IMImpostor</value>
+	</data>
+	<data name="Impostor" xml:space="preserve">
+		<value>Impostor</value>
+	</data>
+	<data name="IMPOSTOR" xml:space="preserve">
+		<value>IMPOSTOR</value>
+	</data>
+	<data name="Impostors" xml:space="preserve">
+		<value>Impostors</value>
+	</data>
+	<data name="INFO" xml:space="preserve">
+		<value>INFO</value>
+	</data>
+	<data name="In-Game" xml:space="preserve">
+		<value>In-Game</value>
+	</data>
+	<data name="IN-GAME" xml:space="preserve">
+		<value>IN-GAME</value>
+	</data>
+	<data name="In-Game : " xml:space="preserve">
+		<value>In-Game : </value>
+	</data>
+	<data name="Innocent" xml:space="preserve">
+		<value>Innocent</value>
+	</data>
+	<data name="intro0" xml:space="preserve">
+		<value>intro0</value>
+	</data>
+	<data name="intro1" xml:space="preserve">
+		<value>intro1</value>
+	</data>
+	<data name="intro2" xml:space="preserve">
+		<value>intro2</value>
+	</data>
+	<data name="intro3" xml:space="preserve">
+		<value>intro3</value>
+	</data>
+	<data name="intro4" xml:space="preserve">
+		<value>intro4</value>
+	</data>
+	<data name="intro5" xml:space="preserve">
+		<value>intro5</value>
+	</data>
+	<data name="intro6" xml:space="preserve">
+		<value>intro6</value>
+	</data>
+	<data name="intro7" xml:space="preserve">
+		<value>intro7</value>
+	</data>
+	<data name="InvalidEmailAddress" xml:space="preserve">
+		<value>InvalidEmailAddress</value>
+	</data>
+	<data name="InvalidEmailAddress0" xml:space="preserve">
+		<value>InvalidEmailAddress</value>
+	</data>
+	<data name="InvalidPassword" xml:space="preserve">
+		<value>InvalidPassword</value>
+	</data>
+	<data name="InvalidUsername" xml:space="preserve">
+		<value>InvalidUsername</value>
+	</data>
+	<data name="InvalidUsernameOrPassword" xml:space="preserve">
+		<value>InvalidUsernameOrPassword</value>
+	</data>
+	<data name="Inventory" xml:space="preserve">
+		<value>Inventory</value>
+	</data>
+	<data name="INVENTORY :" xml:space="preserve">
+		<value>INVENTORY :</value>
+	</data>
+	<data name="INVENTORY LIST EMPTY" xml:space="preserve">
+		<value>INVENTORY LIST EMPTY</value>
+	</data>
+	<data name="Items count" xml:space="preserve">
+		<value>Items count</value>
+	</data>
+	<data name="JGHero" xml:space="preserve">
+		<value>JGHero</value>
+	</data>
+	<data name="JGJuggernaut" xml:space="preserve">
+		<value>JGJuggernaut</value>
+	</data>
+	<data name="Juggernaut" xml:space="preserve">
+		<value>Juggernaut</value>
+	</data>
+	<data name="JUGGERNAUT" xml:space="preserve">
+		<value>JUGGERNAUT</value>
+	</data>
+	<data name="JuggernautRules" xml:space="preserve">
+		<value>JuggernautRules</value>
+	</data>
+	<data name="JustChatting" xml:space="preserve">
+		<value>JustChatting</value>
+	</data>
+	<data name="kill" xml:space="preserve">
+		<value>kill</value>
+	</data>
+	<data name="Kill from" xml:space="preserve">
+		<value>Kill from</value>
+	</data>
+	<data name="KILLER" xml:space="preserve">
+		<value>KILLER</value>
+	</data>
+	<data name="Kills" xml:space="preserve">
+		<value>Kills</value>
+	</data>
+	<data name="Knife" xml:space="preserve">
+		<value>Knife</value>
+	</data>
+	<data name="KNIVES" xml:space="preserve">
+		<value>KNIVES</value>
+	</data>
+	<data name="Language" xml:space="preserve">
+		<value>Language</value>
+	</data>
+	<data name="Last login" xml:space="preserve">
+		<value>Last login</value>
+	</data>
+	<data name="Last Survivor" xml:space="preserve">
+		<value>Last Survivor</value>
+	</data>
+	<data name="LATER" xml:space="preserve">
+		<value>LATER</value>
+	</data>
+	<data name="leaderboard" xml:space="preserve">
+		<value>leaderboard</value>
+	</data>
+	<data name="Less then 256 x 256 px" xml:space="preserve">
+		<value>Less then 256 x 256 px</value>
+	</data>
+	<data name="Level" xml:space="preserve">
+		<value>Level</value>
+	</data>
+	<data name="LIMITED" xml:space="preserve">
+		<value>LIMITED</value>
+	</data>
+	<data name="LIMITEDPRODUCT" xml:space="preserve">
+		<value>LIMITEDPRODUCT</value>
+	</data>
+	<data name="Liquidation" xml:space="preserve">
+		<value>Liquidation</value>
+	</data>
+	<data name="LIST IS EMPTY" xml:space="preserve">
+		<value>LIST IS EMPTY</value>
+	</data>
+	<data name="LOAD" xml:space="preserve">
+		<value>LOAD</value>
+	</data>
+	<data name="Load more" xml:space="preserve">
+		<value>Load more</value>
+	</data>
+	<data name="Load older messages" xml:space="preserve">
+		<value>Load older messages</value>
+	</data>
+	<data name="LOAD0" xml:space="preserve">
+		<value>LOAD</value>
+	</data>
+	<data name="LOADING" xml:space="preserve">
+		<value>LOADING</value>
+	</data>
+	<data name="LOGIN" xml:space="preserve">
+		<value>LOGIN</value>
+	</data>
+	<data name="LONG" xml:space="preserve">
+		<value>LONG</value>
+	</data>
+	<data name="Loot Farming" xml:space="preserve">
+		<value>Loot Farming</value>
+	</data>
+	<data name="LOSE" xml:space="preserve">
+		<value>LOSE</value>
+	</data>
+	<data name="Low" xml:space="preserve">
+		<value>Low</value>
+	</data>
+	<data name="Map" xml:space="preserve">
+		<value>Map</value>
+	</data>
+	<data name="Map Name" xml:space="preserve">
+		<value>Map Name</value>
+	</data>
+	<data name="Map Name : " xml:space="preserve">
+		<value>Map Name :</value>
+	</data>
+	<data name="Max Players : " xml:space="preserve">
+		<value>Max Players :</value>
+	</data>
+	<data name="MDBystander" xml:space="preserve">
+		<value>MDBystander</value>
+	</data>
+	<data name="MDDetective" xml:space="preserve">
+		<value>MDDetective</value>
+	</data>
+	<data name="MDMurder" xml:space="preserve">
+		<value>MDMurder</value>
+	</data>
+	<data name="Melee" xml:space="preserve">
+		<value>Melee</value>
+	</data>
+	<data name="MELEE" xml:space="preserve">
+		<value>MELEE</value>
+	</data>
+	<data name="MENU" xml:space="preserve">
+		<value>MENU</value>
+	</data>
+	<data name="Merdera" xml:space="preserve">
+		<value>Merdera</value>
+	</data>
+	<data name="Message..." xml:space="preserve">
+		<value>Message...</value>
+	</data>
+	<data name="messages" xml:space="preserve">
+		<value>messages</value>
+	</data>
+	<data name="Messages" xml:space="preserve">
+		<value>Messages</value>
+	</data>
+	<data name="Missions" xml:space="preserve">
+		<value>Missions</value>
+	</data>
+	<data name="MOBILITY" xml:space="preserve">
+		<value>MOBILITY</value>
+	</data>
+	<data name="Mode" xml:space="preserve">
+		<value>Mode</value>
+	</data>
+	<data name="Mode :" xml:space="preserve">
+		<value>Mode :</value>
+	</data>
+	<data name="Modern Case" xml:space="preserve">
+		<value>Modern Case</value>
+	</data>
+	<data name="Murder" xml:space="preserve">
+		<value>Murder</value>
+	</data>
+	<data name="MURDER" xml:space="preserve">
+		<value>MURDER</value>
+	</data>
+	<data name="Murdera" xml:space="preserve">
+		<value>Murdera</value>
+	</data>
+	<data name="MurderRules" xml:space="preserve">
+		<value>MurderRules</value>
+	</data>
+	<data name="Murders" xml:space="preserve">
+		<value>Murders</value>
+	</data>
+	<data name="Music" xml:space="preserve">
+		<value>Music</value>
+	</data>
+	<data name="NameNotAvailable" xml:space="preserve">
+		<value>NameNotAvailable</value>
+	</data>
+	<data name="New  messages" xml:space="preserve">
+		<value>New  messages</value>
+	</data>
+	<data name="new server" xml:space="preserve">
+		<value>new
+server</value>
+	</data>
+	<data name="NEW VERSION AVAILABLE" xml:space="preserve">
+		<value>NEW VERSION AVAILABLE</value>
+	</data>
+	<data name="NEWS" xml:space="preserve">
+		<value>NEWS</value>
+	</data>
+	<data name="NEXT" xml:space="preserve">
+		<value>NEXT</value>
+	</data>
+	<data name="NICKNAME" xml:space="preserve">
+		<value>NICKNAME</value>
+	</data>
+	<data name="Nine Cases" xml:space="preserve">
+		<value>Nine Cases</value>
+	</data>
+	<data name="NO" xml:space="preserve">
+		<value>NO</value>
+	</data>
+	<data name="No available deals" xml:space="preserve">
+		<value>No available deals
+Check it later</value>
+	</data>
+	<data name="NO DEALS" xml:space="preserve">
+		<value>NO DEALS</value>
+	</data>
+	<data name="NO FRIENDS" xml:space="preserve">
+		<value>NO FRIENDS</value>
+	</data>
+	<data name="NO FRIENDSHIP REQUESTS" xml:space="preserve">
+		<value>NO FRIENDSHIP
+REQUESTS</value>
+	</data>
+	<data name="NO ITEMS" xml:space="preserve">
+		<value>NO ITEMS</value>
+	</data>
+	<data name="No items To select" xml:space="preserve">
+		<value>No items
+To select</value>
+	</data>
+	<data name="No password" xml:space="preserve">
+		<value>No password</value>
+	</data>
+	<data name="NO REFERRALS" xml:space="preserve">
+		<value>NO REFERRALS</value>
+	</data>
+	<data name="NO SERVERS" xml:space="preserve">
+		<value>NO SERVERS</value>
+	</data>
+	<data name="No servers To select" xml:space="preserve">
+		<value>No servers
+To select</value>
+	</data>
+	<data name="NoContactEmailAddressFound" xml:space="preserve">
+		<value>NoContactEmailAddressFound</value>
+	</data>
+	<data name="NORMAL" xml:space="preserve">
+		<value>NORMAL</value>
+	</data>
+	<data name="Not Enough" xml:space="preserve">
+		<value>Not Enough</value>
+	</data>
+	<data name="Notifications" xml:space="preserve">
+		<value>Notifications</value>
+	</data>
+	<data name="Now repeat the rating on Google Play" xml:space="preserve">
+		<value>Now repeat the rating on Google Play</value>
+	</data>
+	<data name="Offline" xml:space="preserve">
+		<value>Offline</value>
+	</data>
+	<data name="OFFLINE" xml:space="preserve">
+		<value>OFFLINE</value>
+	</data>
+	<data name="OFFLINE MODE" xml:space="preserve">
+		<value>OFFLINE MODE</value>
+	</data>
+	<data name="One Case" xml:space="preserve">
+		<value>One Case</value>
+	</data>
+	<data name="Online" xml:space="preserve">
+		<value>Online</value>
+	</data>
+	<data name="ONLINE" xml:space="preserve">
+		<value>ONLINE</value>
+	</data>
+	<data name="ONLINE :" xml:space="preserve">
+		<value>ONLINE :</value>
+	</data>
+	<data name="OOPS !" xml:space="preserve">
+		<value>OOPS !</value>
+	</data>
+	<data name="OPEN" xml:space="preserve">
+		<value>OPEN</value>
+	</data>
+	<data name="OPEN NEXT" xml:space="preserve">
+		<value>OPEN NEXT</value>
+	</data>
+	<data name="OPENING..." xml:space="preserve">
+		<value>OPENING...</value>
+	</data>
+	<data name="OR" xml:space="preserve">
+		<value>OR</value>
+	</data>
+	<data name="OTHER" xml:space="preserve">
+		<value>OTHER</value>
+	</data>
+	<data name="Otherwise, let the parents set up parent control" xml:space="preserve">
+		<value>Otherwise, let the parents set up parent control</value>
+	</data>
+	<data name="OUR SOCIALS" xml:space="preserve">
+		<value>OUR SOCIALS</value>
+	</data>
+	<data name="Pants" xml:space="preserve">
+		<value>Pants</value>
+	</data>
+	<data name="Parent Control" xml:space="preserve">
+		<value>Parent Control</value>
+	</data>
+	<data name="PARENT CONTROL" xml:space="preserve">
+		<value>PARENT CONTROL</value>
+	</data>
+	<data name="Password" xml:space="preserve">
+		<value>Password</value>
+	</data>
+	<data name="PASSWORD" xml:space="preserve">
+		<value>PASSWORD</value>
+	</data>
+	<data name="Password :" xml:space="preserve">
+		<value>Password :</value>
+	</data>
+	<data name="PASSWORD0" xml:space="preserve">
+		<value>PASSWORD</value>
+	</data>
+	<data name="Personal Message" xml:space="preserve">
+		<value>Personal Message</value>
+	</data>
+	<data name="PICK UP" xml:space="preserve">
+		<value>PICK UP</value>
+	</data>
+	<data name="Pile of Coins" xml:space="preserve">
+		<value>Pile of Coins</value>
+	</data>
+	<data name="Pin Code" xml:space="preserve">
+		<value>Pin Code</value>
+	</data>
+	<data name="PISTOLS" xml:space="preserve">
+		<value>PISTOLS</value>
+	</data>
+	<data name="PLAY" xml:space="preserve">
+		<value>PLAY</value>
+	</data>
+	<data name="Played" xml:space="preserve">
+		<value>Played</value>
+	</data>
+	<data name="PLAYED :" xml:space="preserve">
+		<value>PLAYED :</value>
+	</data>
+	<data name="Player" xml:space="preserve">
+		<value>Player</value>
+	</data>
+	<data name="Players" xml:space="preserve">
+		<value>Players</value>
+	</data>
+	<data name="PLAYERS " xml:space="preserve">
+		<value>PLAYERS </value>
+	</data>
+	<data name="Players Count : " xml:space="preserve">
+		<value>Players Count :</value>
+	</data>
+	<data name="PLAYERS LIST" xml:space="preserve">
+		<value>PLAYERS LIST</value>
+	</data>
+	<data name="Players0" xml:space="preserve">
+		<value>Players</value>
+	</data>
+	<data name="Points" xml:space="preserve">
+		<value>Points</value>
+	</data>
+	<data name="points for kill" xml:space="preserve">
+		<value>points for kill</value>
+	</data>
+	<data name="Post Effects" xml:space="preserve">
+		<value>Post Effects</value>
+	</data>
+	<data name="Primary" xml:space="preserve">
+		<value>Primary</value>
+	</data>
+	<data name="PRIMARY" xml:space="preserve">
+		<value>PRIMARY</value>
+	</data>
+	<data name="Prime" xml:space="preserve">
+		<value>Prime</value>
+	</data>
+	<data name="ProfaneDisplayName" xml:space="preserve">
+		<value>ProfaneDisplayName</value>
+	</data>
+	<data name="Profile" xml:space="preserve">
+		<value>Profile</value>
+	</data>
+	<data name="PROFILE :" xml:space="preserve">
+		<value>PROFILE :</value>
+	</data>
+	<data name="Profile Search" xml:space="preserve">
+		<value>Profile Search</value>
+	</data>
+	<data name="PROFILE STATS" xml:space="preserve">
+		<value>PROFILE STATS</value>
+	</data>
+	<data name="Promo Code" xml:space="preserve">
+		<value>Promo Code</value>
+	</data>
+	<data name="PROMO IN STORIES" xml:space="preserve">
+		<value>PROMO IN STORIES</value>
+	</data>
+	<data name="PROMOCODE" xml:space="preserve">
+		<value>PROMOCODE</value>
+	</data>
+	<data name="PropHunt" xml:space="preserve">
+		<value>PropHunt</value>
+	</data>
+	<data name="Quadratic" xml:space="preserve">
+		<value>Quadratic</value>
+	</data>
+	<data name="Quality" xml:space="preserve">
+		<value>Quality</value>
+	</data>
+	<data name="Quit" xml:space="preserve">
+		<value>Quit</value>
+	</data>
+	<data name="QUIT" xml:space="preserve">
+		<value>QUIT</value>
+	</data>
+	<data name="Rare :" xml:space="preserve">
+		<value>Rare :</value>
+	</data>
+	<data name="RATE" xml:space="preserve">
+		<value>RATE</value>
+	</data>
+	<data name="RATE A GAME" xml:space="preserve">
+		<value>RATE A GAME</value>
+	</data>
+	<data name="RATE AND GET" xml:space="preserve">
+		<value>RATE AND GET</value>
+	</data>
+	<data name="RATE NOW" xml:space="preserve">
+		<value>RATE NOW</value>
+	</data>
+	<data name="RateDescription" xml:space="preserve">
+		<value>RateDescription</value>
+	</data>
+	<data name="RateHeader" xml:space="preserve">
+		<value>RateHeader</value>
+	</data>
+	<data name="RECEIVED" xml:space="preserve">
+		<value>RECEIVED</value>
+	</data>
+	<data name="RECONNECT" xml:space="preserve">
+		<value>RECONNECT</value>
+	</data>
+	<data name="RecordMode" xml:space="preserve">
+		<value>RECORDING MODE</value>
+	</data>
+	<data name="RED" xml:space="preserve">
+		<value>RED</value>
+	</data>
+	<data name="REDEEM CODE" xml:space="preserve">
+		<value>REDEEM CODE</value>
+	</data>
+	<data name="Referrals" xml:space="preserve">
+		<value>Referrals</value>
+	</data>
+	<data name="Referrals count" xml:space="preserve">
+		<value>Referrals count</value>
+	</data>
+	<data name="Referred :" xml:space="preserve">
+		<value>Referred :</value>
+	</data>
+	<data name="Referred by" xml:space="preserve">
+		<value>Referred by</value>
+	</data>
+	<data name="REFRESH" xml:space="preserve">
+		<value>REFRESH</value>
+	</data>
+	<data name="Registration date" xml:space="preserve">
+		<value>Registration date</value>
+	</data>
+	<data name="REMEMBER" xml:space="preserve">
+		<value>REMEMBER</value>
+	</data>
+	<data name="Remove" xml:space="preserve">
+		<value>Remove</value>
+	</data>
+	<data name="Remove player" xml:space="preserve">
+		<value>Remove player</value>
+	</data>
+	<data name="REMOVE PLAYER" xml:space="preserve">
+		<value>REMOVE PLAYER</value>
+	</data>
+	<data name="Remove toggle" xml:space="preserve">
+		<value>Remove toggle
+to
+disable category</value>
+	</data>
+	<data name="removed from server" xml:space="preserve">
+		<value>removed from server</value>
+	</data>
+	<data name="Repeat" xml:space="preserve">
+		<value>Repeat</value>
+	</data>
+	<data name="request friendship" xml:space="preserve">
+		<value>request friendship</value>
+	</data>
+	<data name="Requested" xml:space="preserve">
+		<value>Requested</value>
+	</data>
+	<data name="REQUESTED" xml:space="preserve">
+		<value>REQUESTED</value>
+	</data>
+	<data name="REQUESTS" xml:space="preserve">
+		<value>REQUESTS</value>
+	</data>
+	<data name="RESET" xml:space="preserve">
+		<value>RESET</value>
+	</data>
+	<data name="RESET PASSWORD" xml:space="preserve">
+		<value>RESET PASSWORD</value>
+	</data>
+	<data name="Resolution" xml:space="preserve">
+		<value>Resolution</value>
+	</data>
+	<data name="RESPAWN" xml:space="preserve">
+		<value>RESPAWN</value>
+	</data>
+	<data name="Reward :" xml:space="preserve">
+		<value>Reward :</value>
+	</data>
+	<data name="RIFLES" xml:space="preserve">
+		<value>RIFLES</value>
+	</data>
+	<data name="ROLEPLAY" xml:space="preserve">
+		<value>ROLEPLAY</value>
+	</data>
+	<data name="Roles" xml:space="preserve">
+		<value>Roles</value>
+	</data>
+	<data name="rProfile" xml:space="preserve">
+		<value>Profile</value>
+	</data>
+	<data name="RULES" xml:space="preserve">
+		<value>RULES</value>
+	</data>
+	<data name="RUN AND HIDE!" xml:space="preserve">
+		<value>RUN AND HIDE!</value>
+	</data>
+	<data name="RUNNER" xml:space="preserve">
+		<value>RUNNER</value>
+	</data>
+	<data name="SAVE" xml:space="preserve">
+		<value>SAVE</value>
+	</data>
+	<data name="SAVING &lt;b&gt;13$ = 80%&lt;/b&gt;" xml:space="preserve">
+		<value>SAVING &lt;b&gt;13$ = 80%&lt;/b&gt;</value>
+	</data>
+	<data name="SEARCH" xml:space="preserve">
+		<value>SEARCH</value>
+	</data>
+	<data name="SEASON" xml:space="preserve">
+		<value>SEASON</value>
+	</data>
+	<data name="Secondary" xml:space="preserve">
+		<value>Secondary</value>
+	</data>
+	<data name="SECONDARY" xml:space="preserve">
+		<value>SECONDARY</value>
+	</data>
+	<data name="Seekers" xml:space="preserve">
+		<value>Seekers</value>
+	</data>
+	<data name="SEEKING" xml:space="preserve">
+		<value>SEEKING</value>
+	</data>
+	<data name="SELECT" xml:space="preserve">
+		<value>SELECT</value>
+	</data>
+	<data name="SELECT GAMEMODE" xml:space="preserve">
+		<value>SELECT GAMEMODE</value>
+	</data>
+	<data name="SELECT LAUNCHER THEME" xml:space="preserve">
+		<value>SELECT LAUNCHER THEME</value>
+	</data>
+	<data name="SELECTED" xml:space="preserve">
+		<value>SELECTED</value>
+	</data>
+	<data name="SELECTED ITEMS" xml:space="preserve">
+		<value>SELECTED ITEMS</value>
+	</data>
+	<data name="Send" xml:space="preserve">
+		<value>Send</value>
+	</data>
+	<data name="SEND GIFT" xml:space="preserve">
+		<value>SEND GIFT</value>
+	</data>
+	<data name="SEND MESSAGE" xml:space="preserve">
+		<value>SEND MESSAGE</value>
+	</data>
+	<data name="Send to :" xml:space="preserve">
+		<value>Send to :</value>
+	</data>
+	<data name="Sensitivity" xml:space="preserve">
+		<value>Sensitivity</value>
+	</data>
+	<data name="SENT" xml:space="preserve">
+		<value>SENT</value>
+	</data>
+	<data name="Server" xml:space="preserve">
+		<value>Server</value>
+	</data>
+	<data name="Server Language :" xml:space="preserve">
+		<value>Server Language :</value>
+	</data>
+	<data name="Server Name :" xml:space="preserve">
+		<value>Server Name :</value>
+	</data>
+	<data name="Server Ping : " xml:space="preserve">
+		<value>Server Ping :</value>
+	</data>
+	<data name="servers information" xml:space="preserve">
+		<value>servers
+information</value>
+	</data>
+	<data name="Settings" xml:space="preserve">
+		<value>Settings</value>
+	</data>
+	<data name="SETTINGS" xml:space="preserve">
+		<value>SETTINGS</value>
+	</data>
+	<data name="SHARE" xml:space="preserve">
+		<value>SHARE</value>
+	</data>
+	<data name="SHARE CODE" xml:space="preserve">
+		<value>SHARE CODE</value>
+	</data>
+	<data name="Shared friends" xml:space="preserve">
+		<value>Shared friends</value>
+	</data>
+	<data name="ShareText" xml:space="preserve">
+		<value>ShareText</value>
+	</data>
+	<data name="Shoes" xml:space="preserve">
+		<value>Shoes</value>
+	</data>
+	<data name="SHOOTER" xml:space="preserve">
+		<value>SHOOTER</value>
+	</data>
+	<data name="shop" xml:space="preserve">
+		<value>shop</value>
+	</data>
+	<data name="Shop" xml:space="preserve">
+		<value>Shop</value>
+	</data>
+	<data name="SHOTGUNS" xml:space="preserve">
+		<value>SHOTGUNS</value>
+	</data>
+	<data name="SIGN UP" xml:space="preserve">
+		<value>SIGN UP</value>
+	</data>
+	<data name="Silver" xml:space="preserve">
+		<value>Silver</value>
+	</data>
+	<data name="SILVER" xml:space="preserve">
+		<value>SILVER</value>
+	</data>
+	<data name="Silver Stack" xml:space="preserve">
+		<value>Silver Stack</value>
+	</data>
+	<data name="Size" xml:space="preserve">
+		<value>Size</value>
+	</data>
+	<data name="Skin" xml:space="preserve">
+		<value>Skin</value>
+	</data>
+	<data name="Snipers" xml:space="preserve">
+		<value>Snipers</value>
+	</data>
+	<data name="SNIPERS" xml:space="preserve">
+		<value>SNIPERS</value>
+	</data>
+	<data name="SOON" xml:space="preserve">
+		<value>SOON</value>
+	</data>
+	<data name="Sound" xml:space="preserve">
+		<value>Sound</value>
+	</data>
+	<data name="SOUNDS" xml:space="preserve">
+		<value>SOUNDS</value>
+	</data>
+	<data name="Sounds Settings" xml:space="preserve">
+		<value>Sounds Settings</value>
+	</data>
+	<data name="Special Deal :" xml:space="preserve">
+		<value>Special Deal :</value>
+	</data>
+	<data name="START DIALOG" xml:space="preserve">
+		<value>START DIALOG
+BY
+SEND MESSAGE</value>
+	</data>
+	<data name="START VOTE" xml:space="preserve">
+		<value>START VOTE</value>
+	</data>
+	<data name="STARTER PACK" xml:space="preserve">
+		<value>STARTER PACK</value>
+	</data>
+	<data name="STARTERPRO" xml:space="preserve">
+		<value>STARTERPRO</value>
+	</data>
+	<data name="STATS" xml:space="preserve">
+		<value>STATS</value>
+	</data>
+	<data name="STATUS :" xml:space="preserve">
+		<value>STATUS :</value>
+	</data>
+	<data name="Stiсker" xml:space="preserve">
+		<value>Stiсker</value>
+	</data>
+	<data name="SUBMACHINES" xml:space="preserve">
+		<value>SUBMACHINES</value>
+	</data>
+	<data name="subNames0" xml:space="preserve">
+		<value>subNames0</value>
+	</data>
+	<data name="subNames1" xml:space="preserve">
+		<value>subNames1</value>
+	</data>
+	<data name="subNames10" xml:space="preserve">
+		<value>subNames10</value>
+	</data>
+	<data name="subNames11" xml:space="preserve">
+		<value>subNames11</value>
+	</data>
+	<data name="subNames12" xml:space="preserve">
+		<value>subNames12</value>
+	</data>
+	<data name="subNames13" xml:space="preserve">
+		<value>subNames13</value>
+	</data>
+	<data name="subNames14" xml:space="preserve">
+		<value>subNames14</value>
+	</data>
+	<data name="subNames15" xml:space="preserve">
+		<value>subNames15</value>
+	</data>
+	<data name="subNames16" xml:space="preserve">
+		<value>subNames16</value>
+	</data>
+	<data name="subNames17" xml:space="preserve">
+		<value>subNames17</value>
+	</data>
+	<data name="subNames18" xml:space="preserve">
+		<value>subNames18</value>
+	</data>
+	<data name="subNames19" xml:space="preserve">
+		<value>subNames19</value>
+	</data>
+	<data name="subNames2" xml:space="preserve">
+		<value>subNames2</value>
+	</data>
+	<data name="subNames3" xml:space="preserve">
+		<value>subNames3</value>
+	</data>
+	<data name="subNames4" xml:space="preserve">
+		<value>subNames4</value>
+	</data>
+	<data name="subNames5" xml:space="preserve">
+		<value>subNames5</value>
+	</data>
+	<data name="subNames6" xml:space="preserve">
+		<value>subNames6</value>
+	</data>
+	<data name="subNames7" xml:space="preserve">
+		<value>subNames7</value>
+	</data>
+	<data name="subNames8" xml:space="preserve">
+		<value>subNames8</value>
+	</data>
+	<data name="subNames9" xml:space="preserve">
+		<value>subNames9</value>
+	</data>
+	<data name="SUBSCRIBE" xml:space="preserve">
+		<value>SUBSCRIBE</value>
+	</data>
+	<data name="Subscribed" xml:space="preserve">
+		<value>Subscribed</value>
+	</data>
+	<data name="Subscribers" xml:space="preserve">
+		<value>Subscribers</value>
+	</data>
+	<data name="SUBSCRIBERS" xml:space="preserve">
+		<value>SUBSCRIBERS</value>
+	</data>
+	<data name="Subscription" xml:space="preserve">
+		<value>Subscription</value>
+	</data>
+	<data name="SURVIVOR" xml:space="preserve">
+		<value>SURVIVOR</value>
+	</data>
+	<data name="Survivors" xml:space="preserve">
+		<value>Survivors</value>
+	</data>
+	<data name="TALK" xml:space="preserve">
+		<value>TALK</value>
+	</data>
+	<data name="TDM" xml:space="preserve">
+		<value>TeamDM</value>
+	</data>
+	<data name="TDMRules" xml:space="preserve">
+		<value>TDMRules</value>
+	</data>
+	<data name="TEAMS" xml:space="preserve">
+		<value>TEAMS</value>
+	</data>
+	<data name="THANK" xml:space="preserve">
+		<value>THANK</value>
+	</data>
+	<data name="THANK YOU!" xml:space="preserve">
+		<value>THANK YOU!</value>
+	</data>
+	<data name="Theme" xml:space="preserve">
+		<value>Theme</value>
+	</data>
+	<data name="This promo code already used" xml:space="preserve">
+		<value>This promo code already used</value>
+	</data>
+	<data name="This promo code dont work!" xml:space="preserve">
+		<value>This promo code dont work!</value>
+	</data>
+	<data name="Three Cases" xml:space="preserve">
+		<value>Three Cases</value>
+	</data>
+	<data name="Time is up" xml:space="preserve">
+		<value>Time is up</value>
+	</data>
+	<data name="Time left :" xml:space="preserve">
+		<value>Time left :</value>
+	</data>
+	<data name="to servers list" xml:space="preserve">
+		<value>to servers list</value>
+	</data>
+	<data name="To Special Gift" xml:space="preserve">
+		<value>To Special Gift</value>
+	</data>
+	<data name="TOTAL" xml:space="preserve">
+		<value>TOTAL</value>
+	</data>
+	<data name="Total played time" xml:space="preserve">
+		<value>Total played time</value>
+	</data>
+	<data name="TownTroubles" xml:space="preserve">
+		<value>TownTroubles</value>
+	</data>
+	<data name="TRANSPARENT" xml:space="preserve">
+		<value>TRANSPARENT</value>
+	</data>
+	<data name="Treasure Vault" xml:space="preserve">
+		<value>Treasure Vault</value>
+	</data>
+	<data name="TTT" xml:space="preserve">
+		<value>TTT</value>
+	</data>
+	<data name="Type :" xml:space="preserve">
+		<value>Type :</value>
+	</data>
+	<data name="Ultra" xml:space="preserve">
+		<value>Ultra</value>
+	</data>
+	<data name="UNTIL" xml:space="preserve">
+		<value>UNTIL</value>
+	</data>
+	<data name="UPDATE" xml:space="preserve">
+		<value>UPDATE</value>
+	</data>
+	<data name="User not found" xml:space="preserve">
+		<value>User not found</value>
+	</data>
+	<data name="Username" xml:space="preserve">
+		<value>Username</value>
+	</data>
+	<data name="UsernameNotAvailable" xml:space="preserve">
+		<value>UsernameNotAvailable</value>
+	</data>
+	<data name="VIP" xml:space="preserve">
+		<value>VIP</value>
+	</data>
+	<data name="VIP 10 Days" xml:space="preserve">
+		<value>VIP 10 Days</value>
+	</data>
+	<data name="VIP 3 Days" xml:space="preserve">
+		<value>VIP 3 Days</value>
+	</data>
+	<data name="VIP 30 Days" xml:space="preserve">
+		<value>VIP 30 Days</value>
+	</data>
+	<data name="VIP 365 Days" xml:space="preserve">
+		<value>VIP 365 Days</value>
+	</data>
+	<data name="Voice Chat" xml:space="preserve">
+		<value>Voice Chat</value>
+	</data>
+	<data name="VOTE" xml:space="preserve">
+		<value>VOTE</value>
+	</data>
+	<data name="Vote by" xml:space="preserve">
+		<value>Vote by</value>
+	</data>
+	<data name="WAIT" xml:space="preserve">
+		<value>WAIT</value>
+	</data>
+	<data name="Waiting for other players" xml:space="preserve">
+		<value>Waiting for other players</value>
+	</data>
+	<data name="WANT TO SEND GIFT?" xml:space="preserve">
+		<value>WANT TO SEND GIFT?</value>
+	</data>
+	<data name="Warrior" xml:space="preserve">
+		<value>Warrior</value>
+	</data>
+	<data name="WATCH" xml:space="preserve">
+		<value>WATCH</value>
+	</data>
+	<data name="WATCH AD" xml:space="preserve">
+		<value>WATCH AD</value>
+	</data>
+	<data name="watching add" xml:space="preserve">
+		<value>watching add</value>
+	</data>
+	<data name="We sent reset password to your email, check it now" xml:space="preserve">
+		<value>We sent reset password to your email, check it now</value>
+	</data>
+	<data name="WEAPON" xml:space="preserve">
+		<value>WEAPON</value>
+	</data>
+	<data name="Weapons" xml:space="preserve">
+		<value>Weapons</value>
+	</data>
+	<data name="WEAPONS" xml:space="preserve">
+		<value>WEAPONS</value>
+	</data>
+	<data name="WEAPONS SELECTION" xml:space="preserve">
+		<value>WEAPONS SELECTION</value>
+	</data>
+	<data name="Welcome" xml:space="preserve">
+		<value>Welcome</value>
+	</data>
+	<data name="Welcome to" xml:space="preserve">
+		<value>Welcome to</value>
+	</data>
+	<data name="Who Is Murder?" xml:space="preserve">
+		<value>Who Is Murder?</value>
+	</data>
+	<data name="win" xml:space="preserve">
+		<value>win</value>
+	</data>
+	<data name="WIN" xml:space="preserve">
+		<value>WIN</value>
+	</data>
+	<data name="Wingman" xml:space="preserve">
+		<value>Wingman</value>
+	</data>
+	<data name="won" xml:space="preserve">
+		<value>won</value>
+	</data>
+	<data name="wonPlayer" xml:space="preserve">
+		<value>wonPlayer</value>
+	</data>
+	<data name="Workshop" xml:space="preserve">
+		<value>Workshop</value>
+	</data>
+	<data name="YES" xml:space="preserve">
+		<value>YES</value>
+	</data>
+	<data name="You" xml:space="preserve">
+		<value>You</value>
+	</data>
+	<data name="You can buy some" xml:space="preserve">
+		<value>You can buy some
+Or
+Win in games</value>
+	</data>
+	<data name="You can do it later in Settings" xml:space="preserve">
+		<value>You can do it later in Settings</value>
+	</data>
+	<data name="You can find some friends at games in players list" xml:space="preserve">
+		<value>You can find some
+friends at games
+in players list</value>
+	</data>
+	<data name="You can get some" xml:space="preserve">
+		<value>You can get some by
+invite friends whith your code</value>
+	</data>
+	<data name="You can watch deals list" xml:space="preserve">
+		<value>You can watch deals list</value>
+	</data>
+	<data name="YOU GOT" xml:space="preserve">
+		<value>YOU GOT</value>
+	</data>
+	<data name="You need a prime for this action" xml:space="preserve">
+		<value>You need a prime for this action</value>
+	</data>
+	<data name="You Vote :" xml:space="preserve">
+		<value>You Vote :</value>
+	</data>
+	<data name="ZOMBIE" xml:space="preserve">
+		<value>ZOMBIE</value>
+	</data>
+	<data name="ZombieEscape" xml:space="preserve">
+		<value>ZombieEscape</value>
+	</data>
+	<data name="Zombies" xml:space="preserve">
+		<value>Zombies</value>
+	</data>
+	<data name="ZombieSurvival" xml:space="preserve">
+		<value>ZombieSurvival</value>
+	</data>
+	<data name="Сaught" xml:space="preserve">
+		<value>Сaught</value>
+	</data>
+	<data name="PHHunter" xml:space="preserve">
+		<value>PHHunter</value>
+	</data>
+</root>

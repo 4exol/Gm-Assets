@@ -1,0 +1,996 @@
+			Арабский
+
+
+آنتاكلب#„You are a dog!“
+آيري فيك#Fuck off
+أمك#your m other
+ابن شرموطة#Son of whore
+تلحاس ايري#„Suck my dick“
+حاياوين#pork, animal
+حمار#Donkey, lit. Idiot
+شرموطة#bitch
+كول ايري#„Eat my dick“
+كول خراء#eat shit
+كيس أمك#Vagina of your mother
+نيك حلاك#fuck you
+طيز
+شرج
+لعق
+لحس
+مص
+تمص
+بيضان
+ثدي
+بز
+بزاز
+حلمة
+مفلقسة
+بظر
+كس
+فرج
+شهوة
+شاذ
+مبادل
+عاهرة
+جماع
+قضيب
+زب
+لوطي
+لواط
+سحاق
+سحاقية
+اغتصاب
+خنثي
+احتلام
+نيك
+متناك
+متناكة
+شرموطة
+عرص
+خول
+قحبة
+لبوة
+
+
+			Чешский
+
+
+bordel
+buzna
+čumět
+čurák
+debil
+do( )*piče
+do( )*prdele
+dršťka
+držka
+flundra
+hajzl
+hovno
+chcanky
+\bchuj\b
+jebat
+kokot
+kokotina
+koňomrd
+\bkunda\b
+kurva
+mamrd
+\bmrdat\b
+mrdka
+mrdník
+oslošoust
+\bpiča\b
+píčus
+píchat
+pizda
+prcat
+prdel
+prdelka
+sračka
+\bsrát\b
+šoustat
+šulin
+vypíčenec
+zkurvit
+zkurvysyn
+\bzmrd\b
+\bžrát\b
+
+
+		Датский
+
+
+bøsserøv
+fisse
+fissehår
+hestepik
+kussekryller
+\blort\b
+luder
+\bpik\w*\b
+\bpis\b
+\b\w*røv\w*\b
+
+
+		Немецкий
+
+
+\b\w*affe\w*\b#
+#after#
+alki#
+aloch#
+arbeit(-| )*macht(-| )*frei#is a German phrase meaning "work makes (you) free". The slogan is known for having been placed over the entrances to a number of Nazi concentration camps during World War II.
+arier#the Germanic "master race" or Übermensch, according to Nazi doctrine
+armleuchter#
+\b(\w{2,})?arsch\w*\b#
+\baso\b#
+a(ss|ß)i#
+#\bbehind\w*\b#
+blasen#
+\b\w*bl(ö|oe)d\w*\b#
+\bbonz\w*\b#
+bordel#
+bratze#
+brunskuh#
+\bbums\w*\b#
+\b\w*depp\w*\b#
+dorfmatratze#
+\bdreck\w*\b#
+drittes(-| )*reich#Third Reich or "Third Realm". Arthur Moeller van den Bruck coined this term for his book Das Dritte Reich published in 1923. The "Third Reich" was predicted as the next step beyond the "First Reich" (the Holy Roman Empire), 800–1806 beginning with Charlemagne, and the "Second Reich" (the German Empire, 1871–1918).
+\b\w*dumm\w*\b#
+\bd(ü|ue)nnschi(ss|ß)?\w*\b#
+\b\w*eichel\w*\b#
+\beinhandseg\w*\b#
+ekelbob#
+endl(ö|oe)sung#"final solution", short for "final solution to the question" (or "... problem"), a Nazi euphemism for what later became known as the Holocaust. Use of the phrase "final solution", even in non-Nazi contexts, e.g., "the final solution of a mathematics problem" is frowned upon in modern Germany. Note: It is important when reading books about the Third Reich that were published before 1978 to remember that the term "Holocaust", although it had been used before 1978 in some newspaper articles and by some Jewish and other intellectuals, did not become the general term used among the general population to refer to this genocide until after the appearance of the Holocaust TV miniseries in 1978. For example, William Shirer's 1961 book Rise and Fall of the Third Reich uses the term "the final solution" in quotes; the word "Holocaust" is not mentioned.
+endsieg#"final victory"; referring to the expected victory in World War II. Nazi leadership spoke of the "final victory" as late as March 1945.
+\bf(ä|ae)kal\w*\b#
+fascho#
+feigling#
+\bfett\w*\b#
+\b\w*fick\w*\b#
+flasche#
+flittchen#
+\b\w*fotz\w*\b#
+fratze#
+\b\w*fre(ss|ß)\w*\b#
+f(ü|ue)hrer#
+\b\w*furz\w*\b#
+\b\w*gammel\w*\b#
+gruppensex#
+hakenkreuz#
+hampelmann#
+hirnamputiert#
+\bhoden\w*\b#
+hohlbratze#
+\bhure\w*\b#
+inzest#
+judenfrei#areas "liberated" (i.e., ethnically cleansed) from any Jewish presence. German for "free of Jews".
+\bjugo\b#
+\bkack\w*\b#
+kampflesbe#
+kanake#
+kiffer#
+kimme#
+knallt(ü|ue)te#
+konzentrationslager#often abbreviated KZ for concentration camp. The correct abbreviation would be KL, but KZ was chosen for the tougher sound. Concentration camps were established for the internment of those who were declared "enemies of the volk community" by the SS.
+kotlutscher#
+\b\w*kotz\w*\b#
+krepier#
+kuttenluder#
+langweiler#
+\blesb\w*#
+\bloo*ser\w*\b#
+\blump\b#
+lutscher#
+mein(-| )*kampf#"My Struggle", Adolf Hitler's autobiography and political statement.
+meine(-| )*ehre(-| )*hei(ss|ß)t(-| )*treue#"My honor is loyalty" – Motto applied to the belt buckles and the blades of uniform daggers worn by the Schutzstaffel, or SS.
+mi(ss|ß)geburt#
+mohrenkopf#
+m(ö|oe)pse#
+morgenlatte#
+\b\w*m(ö|oe)se\w*\b#
+muchel#
+mufti#
+\b\w*muschi\w*\b#
+muselmann#"an inmate who had resigned himself to death and lost the will to do anything to help himself survive".
+nationalsozialismus#
+\bnippel\w*\b#
+\bnsdap\b#
+\b\w*nutte\w*\b#
+\b\w*neger\w*\b#
+onanieren#
+\bopfer\b#
+\borgasmus\w*\b#
+pappnase#
+pfeife#
+\bpimmel\w*\b#
+pimpern#
+pinkeln#
+\b\w*pi(ss|ß)\w*\b#piss
+popel#
+poppen#
+proletensau#
+prostitut#
+rassenhasser#
+rassenhygiene#"Racial Hygiene"—the Nazi eugenics program—implemented to improve the Nordic Aryan master race itself to the point where it could eventually become a super race.
+rauschkind#
+reinrassig#a zoological term meaning "of pure breed." Applied to human races, persons who could not prove their Aryan ancestry could be considered nicht reinrassig.
+reudig#
+\brosette\w*\b#
+r(ü|ue)sselsack#
+sackgesicht#
+schabracke#
+\bschamhaar\w*\b#
+\b\w*schei(ss|ß)(e|er)?\w*\b#
+schie(ss|ß)budenfigur#
+\bschlampe\w*\b#
+schmudel#
+schnackeln#
+schwachkopf#
+\bschwanz\w*\b#
+\bschwein\w*\b#
+schwucht(e)?l#
+sieg(-| )*heil#
+spaltenspengler#
+\bsperma\w*\b#
+\bstink\w*\b#
+spinner#
+\b\w*spritz\w*\b#
+\b\w*tit{2,}\w*\b#titten
+trottel#
+tunte#
+\burin\w*\b#
+verdammt#
+vergasen#
+verrecken#
+versager#
+v(oe|ö)geln#
+vollpfosten#
+volltrottel#
+weicheier#
+\b\w*wichs\w*\b#
+\b\w*wixx*\w*\b#
+ziege#
+
+
+		Немецкая германия
+
+
+dr(ä|ae)cks
+dr(oe|ö)geler
+figg
+fr(ä|ae)ssi
+futz
+futztubel
+gottverdammi
+hu(u)?(e)?r(ä|ae|e)
+m(oe|ö)ngi
+scha(a)?fseckel
+schiss(ä|ae)r
+schissi
+schoggichopf
+siäch
+tammisiech
+tätschgrind
+verschisse
+v(oe|ö)gle
+
+
+		Греческий
+
+
+Χ(ο|ό)(ύ|υ)κ(ε|έ)ρ#hoyker#whore
+Π(ό|ο)ρν(η|ή)#pornh#whore
+Π(ο|ό)ρν(ί|ι)δ(ι|ί)(ο|ό)#pornidio#youngwhore
+Π(ο|ό)(υ|ύ)τ(ά|α)ν(α|ά)#poytana#whore
+Π(ο|ό)(υ|ύ)τ(α|ά)ν(ά|α)ρ(α|ά)#poytanara#bigwhore
+Π(ο|ό)(υ|ύ)τ(α|ά)ν(ά|α)κ(ι|ί)#poytanaki#smallwhore
+Ι(ε|έ)ρ(ό|ο)δ(ο|ό)(υ|ύ)λ(η|ή)#ierodoylh#whore
+Τσ(ο|ό)(ύ|υ)λ(α|ά)#tsoyla#whore
+Χ(α|ά)μ(ο|ό)(ύ|υ)ρ(α|ά)#xamoyra#whore
+Πρ(ό|ο)στ(υ|ύ)χ(η|ή)#prostyxh#whore
+Τσ(ο|ό)(υ|ύ)λ(ά|α)ρ(α|ά)#tsoylara#bigwhore
+Τσ(ο|ό)(υ|ύ)λ(ά|α)κ(ι|ί)#tsoylaki#youngwhore
+Σκ(ύ|υ)λ(α|ά)#skyla#whore
+Κ(α|ά)ργ(ι|ί)(ό|ο)λ(α|ά)#kargiola#whore
+Σκρ(ό|ο)φ(α|ά)#skrofa#whore
+Π(ο|ό)(ύ|υ)στ(η|ή)ς#poysths#homosexual
+Π(ο|ό)(υ|ύ)στ(ά|α)ρ(α|ά)#poystara#homosexual
+Π(α|ά)λ(ι|ί)(ό|ο)π(ο|ό)(υ|ύ)στρ(α|ά)ς#paliopoystras#homosexual
+(Α|Ά)δ(ε|έ)ρφ(ή|η)#Aderfh#homosexual
+(Α|Ά)δ(ε|έ)ρφ(ά|α)ρ(α|ά)#Aderfara#homosexual
+Κ(ω|ώ)λ(ο|ό)γ(α|ά)μ(η|ή)μ(έ|ε)ν(ο|ό)ς#kologamhmenos#homosexual
+Λ(ε|έ)σβ(ί|ι)(α|ά)#lesbia#lesbian
+Κ(ώ|ω)λ(ο|ό)ς#kolos#ass
+Πρ(ω|ώ)κτ(ό|ο)ς#proktos#ass
+K(ω|ώ)λ(ο|ό)τρ(υ|ύ)π(ί|ι)δ(α|ά)#kolotrypida#asshole
+Κ(ω|ώ)λ(ο|ό)γλ(ύ|υ)φτ(η|ή)ς#kologlyfths#asslicker
+Γλ(υ|ύ)φτρ(ό|ο)ν(ι|ί)#glyftroni#asslicker
+Κ(ω|ώ)λ(ο|ό)γλ(ύ|υ)φτρ(α|ά)#kologlyftra#asslicker
+Κ(ω|ώ)λ(ο|ό)γλ(ύ|υ)ψ(ι|ί)μ(ο|ό)#kologlypsimo#asslick
+Κ(ω|ώ)λ(ο|ό)μπ(α|ά)ρ(ά|α)ς#kolomparas#homosexual
+Κ(ω|ώ)λ(ο|ό)κ(α|ά)τ(ά|α)στ(α|ά)σ(η|ή)#kolokatastash#badsituation
+Κ(ω|ώ)λ(ά|α)νθρ(ω|ώ)π(ο|ό)ς#kolanthropos#badass
+Κ(ω|ώ)λ(ο|ό)π(α|ά)(ι|ί)δ(α|ά)ρ(ά|α)ς#kolopaidaras#badass
+Κ(ω|ώ)λ(ό|ο)π(α|ά)(ι|ί)δ(ο|ό)#kolopaido#badass
+Χ(ο|ό)ντρ(ο|ό)κ(ώ|ω)λ(η|ή)ς#xondrokolhs#fatass
+Μ(α|ά)λ(ά|α)κ(α|ά)ς#malakas#badass
+Μ(α|ά)λ(α|ά)κ(ι|ί)σμ(έ|ε)ν(ο|ό)ς#malakismenos#badass
+Μ(α|ά)λ(α|ά)κ(ι|ί)σμ(έ|ε)ν(η|ή)#malakismenh#badass
+Μ(α|ά)λ(α|ά)κ(ι|ί)σμ(έ|ε)ν(ο|ό)#malakismeno#badass
+Μ(α|ά)λ(α|ά)κ(ί|ι)(α|ά)#malakia#Masturbation
+Γ(α|ά)μ(ή|η)σ(ι|ί)#gamhsi#fuck
+Π(ή|η)δ(η|ή)μ(α|ά)#phdhma#fuck
+Σ(ε|έ)ξ#sex#fuck
+Γ(α|ά)μ(ή|η)σ(ο|ό)(υ|ύ)#gamhsoy#fuckoff
+Γ(α|ά)μ(η|ή)μ(έ|ε)ν(ο|ό)ς#gamhmenos#fucked
+Γ(α|ά)μ(η|ή)μ(έ|ε)ν(η|ή)#gamhmenh#fucked
+Γ(α|ά)μ(η|ή)μ(έ|ε)ν(ο|ό)#gamhmeno#fucked
+Σκ(ί|ι)ζ(ω|ώ)#skizo#fuck
+Ξ(ε|έ)σκ(ί|ι)ζ(ω|ώ)#kseskizo#fuck
+Ξ(ε|έ)κ(ω|ώ)λ(ώ|ω)ν(ω|ώ)#ksekolono#fuck
+Μ(ο|ό)(υ|ύ)ν(ί|ι)#moyni#pussy
+Μ(ο|ό)(υ|ύ)ν(ά|α)ρ(α|ά)#moynara#pussy
+Μ(ο|ό)(υ|ύ)ν(ά|α)κ(ι|ί)#moynaki#pussy
+Μ(ο|ό)(υ|ύ)ν(ί|ι)τσ(α|ά)#moynitsa#young girl
+Π(ο|ό)(ύ|υ)τσ(α|ά)#poytsa#penis
+Ψ(ω|ώ)λ(ή|η)#psolh#penis
+Π(ο|ό)(υ|ύ)τσ(ά|α)ρ(α|ά)#poytsara#penis
+Π(ο|ό)(υ|ύ)τσ(α|ά)ρ(ά|α)ς#poytsaras#with big penis
+Π(ί|ι)π(α|ά)#pipa#blow
+Τσ(ι|ί)μπ(ο|ό)(ύ|υ)κ(ι|ί)#tsimpoyki#blow
+Π(ι|ί)σ(ω|ώ)κ(ο|ό)λλ(η|ή)τ(ό|ο)#pisokollhto#anal
+Πρ(ω|ώ)κτ(ι|ί)κ(ό|ο)#proktiko#anal
+(Ό|Ο)ργ(ι|ί)(ο|ό)#orgio#orgy
+Π(α|ά)ρτ(ο|ό)(ύ|υ)ζ(α|ά)#partoyza#orgy
+(Α|Ά)ρχ(ί|ι)δ(ι|ί)#Arxidi#testicle
+(Α|Ά)ρχ(ί|ι)δ(ι|ί)(α|ά)#arxidia#testicles
+(Ό|Ο)ρχ(ι|ί)ς#orxis#testicle
+(Α|Ά)μ(ε|έ)λ(έ|ε)τ(η|ή)τ(α|ά)#Amelethta#testicles
+Σπ(έ|ε)ρμ(α|ά)#sperma#sperm
+Χ(ύ|υ)σ(ι|ί)(α|ά)#xysia#sperm
+Σκ(α|ά)τ(ά|α)#skata#shit
+Σκ(α|ά)τ(ι|ί)(ά|α)ρ(η|ή)ς#skatiarhs#shitman
+Σκ(α|ά)τ(ο|ό)κ(έ|ε)φ(α|ά)λ(ο|ό)ς#skatokefalos#shitforbrains
+Αν(ώ|ω)μ(α|ά)λ(ο|ό)ς#anomalos#perver
+Αν(ω|ώ)μ(α|ά)λ(ι|ί)(ά|α)ρ(η|ή)ς#anomaliarhs#perver
+Κλ(α|ά)ν(ι|ί)(ά|α)#klania#fart
+Κλ(α|ά)ν(ι|ί)(ά|α)ρ(η|ή)ς#klaniarhs#fartman
+
+
+		Англиский
+
+
+# English
+# Last updated: 19.07.2023
+abortion#abortion
+acrotomophilia
+ask(-| )*hole#askhole
+\b(?!\bars\b)(fat|jack|jerk|lame|lard)?(-)*((a(s|r){2,}(es|e)?))+(-)*(bag\w*|bang\w*|bite\w*|clown\w*|crack\w*|crap\w*|dick\w*|face\w*|goblin\w*|hat\w*|head\w*|ho\w*|jack\w*|lick\w*|lol\w*|monk\w*|mu\w*|pirate\w*|hit\w*|wad\w*|wipe\w*)?\b#ass(es)
+autoerotic
+ax(-| )*wound#
+\b\w*baby(-| )*(batt|juice|gag|gravy|kick|lick|sack|suck|bag){1}\w*\b#
+baa*ll*s#
+bam(-| )*pot#
+bangbros
+bare(-| )*back
+\b\w*bastard\w*\b#bastard
+\bbbw\b#
+beaner#
+\b\w*bea?stial\w*\b#beastial
+bellend#http://www.urbandictionary.com/define.php?term=bellend
+\bbewb\b#
+birdlock#
+\b\w*bi+a*tch\w*\b#bitch
+blow(-| )*job#
+blumpkin#
+bog(-| )*off#
+boiolas#
+boll*o(c|k|x)k*#bollok
+bondage#
+boner#
+\b\w*bo{2,}b\w*\b#boob
+buggery?#
+\bbum\b#
+bung(-| )*hole#
+busty#
+\b\w*butt(-)*(pirate\w*|sex\w*|cheek\w*|hole\w*|lug\w*|much\w*|plug\w*)?\b#
+camel(-| )*toe#
+\bcarpet(-| )*munch\w*\b#
+\bcawk\b#
+chin(c|k)#chinc#http://www.urbandictionary.com/define.php?term=chink
+choad#
+chode#
+\bcipa\b#
+circle(-| )*jerk
+\b\w*clit\w*\b#clit
+\bcnut\b#
+\b\w*(c|k)o{1,}c{1,}k\w*\b#cock
+(c|k|g)o{2,}ch(ie|y)?#cooch
+co{2,}n#coon
+coprophilia
+co{2,}ter#
+corn(-| )*hole#
+\bcox\b#
+cracker#
+\bcrap\w*\b#crap
+cream(-| )*pie#
+cretin#
+\b(k|c)uu*mm*\w*\b#cum
+\b\w*(k|c)unn*ill*ing\w*\b#cunniling
+cunnie?#
+\b(?!\bscunthorpe\b)\w*(k|c)uu*nt\w*\b#cunt
+\bdago\b#
+daa*m(m|n)+#
+\bdang\b#dang
+darkie?#
+\bdarn\b#
+deep(-| )*throat#
+dendrophilia
+deggo#
+deuced#
+\b\w*dic?k\w*\b#dick
+\bdike\b#
+\bdink\b#
+dirsa#
+dogging?#
+dogg(y|ie)(-| )*style
+dolcett#
+dommes#
+\bdong\b#
+do{2,}kie#
+do{2,}sh#
+double(-| )*dong#
+double(-| )*penetration#
+\b\w*douche\w*\b#
+dry(-| )*hump#
+\bduche\b#
+\bdum(b)?\w*\b#
+dunce#
+\bdvda\b#
+\bdyke\b#
+ecchi#
+\beff\b#
+\b\w*eja(c|k)ulat\w*\b#
+erotic#
+erotism#
+escort#
+eunuch#
+facial#
+\bfagg*\w*\b#fag(g)
+\bfan{2,}(y|ie)\w*\b#fanny
+fecal#
+\bfelch\w*\b#felch
+fellate#
+feltch#
+femdom#
+figging#
+fingerbang#
+fingering#
+fisting#
+flamm*er#
+flange#
+fo{2,}tjob#
+foreskin#
+frotting#
+fruitcake#
+\b\w*(ph|f)(u|o|a|e)+(c|k){2,}\w*\b#fuck
+\bfuct\b#
+fudge(-| )*(pack\w*)?#
+futanari#
+\bfux\b#
+\bg(-| )*spot#
+\b\w*gang(-| )*bang\w*\b#
+\bgay\w*\b#gay
+\b\w*genital\w*\b#genital
+\bgino\b#
+\bgitface\b#http://www.urbandictionary.com/define.php?term=Gitface
+glory(-| )*hole#
+\b\w*god(-| )*d*aa*m\w*\b#
+gok{2,}un#
+go{2,}(-| )*girl(s)?#
+go{2,}k#gook
+\bgringo\b#
+grope#
+group(-| )*sex#
+\bguido\b#
+\bguro\b#
+\bgypo\b#
+hand(-| )*job#
+hard(-| )*core#
+hardn#
+\bheeb\b#
+\bh{1,}e{1,}l{2,}\b#
+heshe#
+\bhoar\b#
+\bhoe\b#
+honkey#
+ho{2,}ker#
+\bhoo*re\b#
+horn(y|iest)#
+hot(-| )*sex#
+\bhump(ing)*\b#
+incest#
+intercourse
+jail(-| )*bait#
+jo{2,}#Jew
+jack(-| )*off#
+jagoff#
+\bjap\b#
+jerk(-| )*(off)?#
+jewbag#
+jigg*(a|er)boo*#jiggaboo
+\b\w*ji(s|z){2,}\w*\b#jizz
+\bjugg\b#
+junglebunny#
+kaffir#
+\bkawk\b#
+\bkike\b#
+\bkill\w*\b#
+kinbaku#
+kinkster#
+\bkinky\b#
+\bknob\w*\b#
+kraut#
+\bkyke\b#
+\blabia\b#
+lemon(-| )*party#
+lesbian#
+lesbo#
+lezzie#
+lolita#
+\blovemak\w*\b#
+mo(-)?fo#
+masochist#
+\b\w*mast(u|e)r(-)?bat\w*\b#
+mcfagget#
+\bmick\b#
+minge#
+molest#
+moron#
+\bmuff\b#
+\b\w*muff(-| )*div\w*\b
+mufugly#
+munging#
+\b\w*murder\w*\b#
+nambla#
+nawashi#
+\b\w*n(i|e)+gg*ro\w*\b#negro
+nig(-| )*nog#
+niglet#
+nipple#
+\bno{2,}bs*\b#noob
+nonce#
+numbnut#
+nuts?ack#
+nutter#
+\bnympho\w*\b
+omorashi#
+orgasi?m#
+orgy#
+\bp(ae|e)do\w*\b#paedo
+\bpaki\b#
+pano{2,}ch#
+pant(y|ies)#
+pawn#
+pecker#
+peckerhead#
+pegging#
+phone(-| )*sex#
+\bphuq\b#
+\bpig\b#
+pimp#
+pimpis#
+\bpiss+\w*\b#
+playboy#
+pleasure(-| )*chest#
+pole(-| )*smoker#
+pollock#
+ponyplay#
+po{2,}f#poof
+\bpo{2,}n\w*\b#poon
+po{2,}p#poop
+porch(-| )*monkey#
+prick#
+prostitute#
+\bpthc\b#
+\bpube\b#
+\bpunan\w*\b#
+punta#
+pusse#
+\b\w*pus{2,}(i|y)\w*\b#pussy
+\bputo\b#
+queaf#
+queef#
+\bqueer\w*\b#
+\bquim\b#
+rack(-| )*off#
+raghead#
+raging(-| )*boner#
+\brap(e|i)+\w*\b#
+rect(al|um)#
+renob#
+\br(i|e)tard\w*\b#retard
+rimjaw#
+rim(-| )*job#
+rimming#
+rosy(-| )*palm#
+ruski#
+rusty(-| )*trombone#
+s_h_i_t#
+s.o.b.#
+sadis(m|t)#
+santorum#
+\bscat\b#
+schlong#
+scissoring#
+screw#
+screwing#
+scroat#
+scrote#
+scrotum#
+scrubber#
+scumbag#
+sec(h|k)s#
+semen#
+\bshagg\w*\b#
+shaved(-| )*beaver#
+shemale#
+shibari#
+\b\w*shit\w*\b#shit
+shlong#http://www.urbandictionary.com/define.php?term=shlong
+\bshota\b#
+shrimping#
+\bshum\b#
+skanky*#
+skeet#
+\bslag\w*\b#
+slanteye#
+\b\w*slut\w*\b#slut
+\bsmeg\b#
+\bsmut\b#
+snatch#
+\b\w*snowball\w*\b#
+\bsodom\w*\b#
+\bspac\b#
+spastic#
+\bspaz\b#
+sperg#
+sperm#
+\bspic\b#
+spick#
+splo{2,}ge#
+spo{2,}ge#
+spo{2,}k#
+spunk#
+\b\w*squirt\w*\b#
+strap(-| )*on#
+strappado#
+\bsuck\w*\b#
+swinger#
+taint#
+\btard\b#
+\btart\b#
+\btea(-| )*bag\w*\b#
+\bteez\b#
+terrorist#
+\btestic\w*\b#testicle
+(three|3){1}(-| )*some#
+throating#
+titt*(ies|y|s)*#
+topless#
+tosser#
+towelhead#
+tranny#
+tribadism#
+tub(-| )*girl#
+\bturd\b#
+tushy#
+\btwat\w*\b#twat
+twink(ie|y)?#
+\btwunt\w*\b#
+\bundress\w*\b#
+upskirt#
+urophilia#
+\bvag\b#
+vaginal#
+vorarephilia
+\bwang\b#
+\bwank\w*\b#wank
+white(-| )*power#
+\b\w*whoo*(a)?r\w*\b#whor
+\bwog\b#
+\bwop\b#
+yaoi#
+\byid\b#
+yiffy#
+zoophilia#
+
+
+		Испанский
+
+
+# Spanish
+# Last updated: 21.04.2020
+albóndigas#literally: meatballs
+argentucho#an offensive term used in Chile and some Latin American countries to refer to an Argentine.
+argentuzo#an offensive term used in Chile and some Latin American countries to refer to an Argentine.
+asesinato#
+\basno\b#
+bastardo#
+bicho#(lit.: "bug", "baitworm") is one of the most commonly used references to the penis in Puerto Rico. It is similar to the much less commonly used word pinga. In most other regions it is a non-vulgar reference to an insect or several species of small animals.
+bolas#literally: "balls"
+bolita#offensive term used in reference to Bolivians in Argentina
+bollera#Lesbian
+boludo#
+cabr(ó|o)n(a)?#(lit.: "big goat" or "stubborn goat" – in the primitive sense of the word, "cabrón" is an adult male goat, "cabra" is an adult female goat) is used in Spain, Mexico, Cuba and Puerto Rico, as a generic insult.
+cabronazo#Bastard
+\bcaca\b#
+calientapollas#
+capull(o|a)#(lit: "cocoon" or "flower bud", also slang for glans penis) is nearly always interchangeable with that of gilipollas. The main difference between the two of them is that while a gilipollas normally behaves as he does out of sheer stupidity, a capullo normally acts like one by applying certain amount of evil intentions to his acts.
+carajo#(lit.: "crow's nest") is used in Spain in reference to the penis. In Latin America (except Chile), it is a commonly used generic interjection similar to "fuck!" "shit!" or "damn it!" in English. For example: Nos vamos a morir, ¡carajo! ("We're gonna die, fuck!") or a far away place, likened to hell: ¡Vete al carajo!.
+caray#a mild minced oath for this Carajo. Ay caray could be translated "Dang it" or "Darn it!" The word caracho is also considered mild like caray.
+cerdo#
+chapero#
+chichi(s)?#Pussy
+chichotas#
+chilito#
+chilote#this is actually the demonym for the people of the Chiloé archipielago in Chile. However, in Argentina it is used as a slur to refer to all Chileans.
+chingar#originating from the Basque verb txingartu, meaning "to burn with coal" or from Caló (Spanish Romani) word čingarár, meaning "to fight." In the work La Chingada, it was famously applied to La Malinche, the mistress of Hernán Cortés.
+chingate#
+choch(o|a)#employed term for "pussy" predominantly in Cuba, Puerto Rico, Colombia, Spain, Mexico, Venezuela, and Dominican Republic
+chorra#
+chucha#Pussy
+chuchamadre#
+chupada#
+chupamela#
+chupapollas#
+chupetón#
+cochin#
+coj(ó|o)n(es)?#slang for "testicle" and may be used as a synonym for "guts" or "[having] what it takes," hence making it equivalent to English balls or bollocks.
+cojonazos#
+comepollas#Cocksucker
+concha#(lit.: "mollusk shell" or "inner ear") is an offensive word for a woman's vulva or vagina (i.e. something akin to English cunt) in Argentina, Chile, Ecuador, Paraguay, Peru, Uruguay and Mexico. In the rest of Latin America and Spain however, the word is only used with its literal meaning. In such regions, it is commonly heard in the phrase ¡(La) concha (de) tu madre! ("The cunt of your mother"), which may be used as an expression of surprise or grief, or as a highly disrespectful insult. The contracted term conchatumadre/conchetumadre is very common and extremely offensive in Chile as well.
+concha#
+conchetumare#
+co(ñ|n)o#(from the Latin cunnus) is a vulgar word for a woman's vulva or vagina. It is frequently translated as "cunt" but is considered less offensive (it is much more common to hear the word coño on Spanish television than the word cunt on British television, for example).
+coprofagía#
+cuca#(short for cucaracha, lit.: "cockroach") is used in Honduras, Guatemala, Venezuela, southeastern México and Colombia. Slightly milder than coño, and is almost inoffensive in the Dominican Republic.
+cucaracha#
+\bculo\b#the most commonly used Spanish word for "ass." In El Salvador and Honduras, culero ("one who uses the culo") refers to a male homosexual, while In Mexico it refers to an unjust, unkind, aggressive or insensitive person likened to the connotation provided by the word asshole but usually more offensive. Vete a tomar por el culo ("Go and take it in the ass") is an expression used in Spain, it is like Vete a la mierda but more offensive.
+dejada#
+desgraciado#
+desviado#(lit.: "deviant")
+\bdona\b#
+esperma#
+estupido#
+fiesta( )*de( )*salchichas#
+follador#
+follar#Fuck
+follen#Go fuck
+forro#
+frijolero#is the most commonly used Spanish word for beaner and is particularly offensive when used by a non-Mexican person towards a Mexican in the southwestern United States.
+fundillo#is in Mexico and the southwestern United States as an obscene term specifically for the human anus. It carries about the same weight as the American usages of the words "(someone's) asshole" or "the crack of (someone's) ass." Fundío refers literally to the anus and is not used as a personal insult. For example, ¡Métetelo en fundío! (or in Mexico, Métetelo por el fundillo) is an expression of reproach. ("Shove it up your ass!") The variant fondillo is also found in Puerto Rico and Cuba. In the Dominican Republic, the milder term fullín and the very offensive cieso may also be used.
+furcia#Whore
+gabacho#in Spain, is used as a derisive term for French people—and, by extension, any French-speaking individual. Among Latin American speakers, however, it is meant as a usually offensive term for white people of Northern European heritage or people born in the United States no matter the race of the people.
+gallego# (lit.: Galician)-mostly used in Latin America as synecdoche, referring to all Spaniards. Not always offensive.
+gallina#Used in Ecuador to describe Peruvians.
+gilipichis#
+gilipollas#(and rarely gilipolla) is a term used mostly in Spain and lacking an exact translation to English the most frequent equivalents when translated in books, films other media are "jerk", "jackass", "douchebag", "asshole" or "buffoon" (in English), con (in French), and boludo or pendejo.
+gonorrea#(lit. gonorrhea) is commonly used in Colombia to express strong contempt. For instance, it would be used to insult an unremorseful murderer.
+gringo#generally used in most Spanish-Speaking countries in America. It denotes a person from the United States, or, by extension, from any English-speaking country or even anyone with a Northern-European phenotype.
+güey#is a common term in Mexico, coming from the word buey that literally means "ox" or "steer." It means "stupid" or a "cheated husband/boyfriend/cuckold."
+hacer( )*una( )*paja#
+haciendo( )*el( )*amor#
+Heroína
+hijaputa#Son of a bitch (feminine)
+hij(o|a)\w*puta#
+hostia#Bastard
+huevá#(lit.: "covered in egg") is used in Chile, Ecuador, and Peru in reference to objects ("¡Qué huevá más grande!" may translate to "What an annoyance!"). Shortened forms huevá or even weá are usually intended to be less offensive. Many expressions using cojones in other countries are used in Chile with huevas replacing the former word. There's also a local expression: "¿Me hai visto las weas?" (lit. "Have you taken a look at my testicles?") means "How much of a fool do you think I am?".
+huevada#(lit.: "covered in egg") is used in Chile, Ecuador, and Peru in reference to objects ("¡Qué huevá más grande!" may translate to "What an annoyance!"). Shortened forms huevá or even weá are usually intended to be less offensive. Many expressions using cojones in other countries are used in Chile with huevas replacing the former word. There's also a local expression: "¿Me hai visto las weas?" (lit. "Have you taken a look at my testicles?") means "How much of a fool do you think I am?".
+huevos#literally: "eggs"
+huey#is a common term in Mexico, coming from the word buey that literally means "ox" or "steer." It means "stupid" or a "cheated husband/boyfriend/cuckold."
+idiota#
+ignorante#used by Chileans, Colombians, Mexicans, Paraguayans and Peruvians to describe Argentines. The word "argentino" (Argentine) is an anagram for "ignorante" (ignorant) in Spanish.
+imbécil#
+infierno#
+japo#used in reference to people of Japanese ancestry, similar to Jap used mostly in Spain. In Rioplatense Spanish slang, the word used is Ponja, which is vesre for Japón (Japan).
+jilipollas#
+joder#Fuck
+j(ó|o)dete#Go fuck yourself
+joputa#Abbreviation of "hijo de puta" (son of a bitch)
+joto#(lit.: the "jack" or a "knave" in a Western deck of cards) is used in Mexico and the southwestern United States, usually pejoratively, in reference to an over-sexed male. Arguably more offensive than maricón, joto usually refers to a man who is indifferent to pertinent matters, or who is a "loser", with perhaps a hinted accusation of closeted homosexuality. For example, a gay man in Mexico might derisively refer to himself as a maricón, but probably not as a joto. Recently the use of joto in Mexico have changed, and is being embraced by the gay community, mainly as an adjective: Es una película muy jota ("It's a very gay movie"). Not to be confused with the word jota, which refers to a traditional Spanish, Mexican or Argentine parlor dance.
+kapullo#
+lameculos#
+lamehuevos#egg-sucker
+lavahuevos#egg-washer
+llanta#(lit.: tire)-a general prison slang used by Mexicans or Mexican-Americans referring to very dark skinned individuals.
+maciza#
+macizorra#
+madre#depending on its usage (for example: madrear—"to beat" or hasta la madre—"full"), can be profane in Mexico, where there is a cultural taboo against matriarchial families (because of associations with pagan witchcraft). Chinga tu madre ("Fuck your mother") is considered to be extremely offensive.
+mal( )*bicho#
+maldito#
+malparida #
+mamada#Blowjob
+mamagüevazo#huge egg-sucker
+mamagüevo#egg-sucker
+mamapinga#(lit. "cock-sucker"). Extensively used in Cuba.
+mamaverga#(lit.: "cock-sucker").
+mam(ó|o)n(a)?#Sucker
+marci(a|o)#gay
+Marica
+maric(ó|o)n#(lit.: "big Mary") and its derivative words marica and marico are words used for referring to a man as a gay, or for criticizing someone for doing something that, according to stereotypes, only a gay person would do (marica was originally the diminutive of the very common female name María del Carmen, a usage that has been lost). The suffix is -on is often added to nouns to intensify their meaning.
+maricón#Faggot
+maricona#used in southern Spain to refer to a drag queen, in an often humorous manner. Elsewhere, maricona refers to a lesbian. In Cuba it is used in a friendly manner among gays.
+mariconazo#Faggot
+marimacha#(combination of maricon and macha)—an insult common in Peru, Chile and Cuba, usually referring to lesbians or to women trying to do something seen as a males-only activity. It is considered offensive as mari prolongs the original insult macha. In Colombia, Macha is the feminine form of macho and thus refers to a tomboy (it is not really an insult, but more of a derogatory way to describe a masculine/unlady-like girl).
+mariquita#(diminiuitive of marica)—means a wimp or sissy in Spain. For example, ¡Eres una mariquita!, means "You're a pussy!" It also means ladybug. In Cuba, however, the term refers both to a dish of fried plantains and to being gay.
+martillo#
+\bmato\b#
+mayate#(lit: June bug) is a very offensive term used in Mexico and primarily by Mexican-Americans to describe a black person or an African-American.
+mierda#is a noun meaning "shit." However, phrases such as Vete a la mierda (literally: "Go to (the) shit") would translate as "Go fuck yourself."
+\bmono\b#used in reference to Ecuadorians in Peru
+\bmoro\b#(lit.: Moor) used in Spain in reference to people of Maghrebi, Arab or Middle Eastern ancestry also used to describe Muslims in general.
+\bodio\b#
+ojete#(lit.: "eyelet")—refers to the anus in some countries, and also is used to mean "asshole".
+\borina\b#
+\borto\b#(a euphemism for "recto", that is rectum, from Latin ortus, as both rectum and orto are Latin words that mean "straight".
+\bostia\b#Abbreviation of "hostia" (bastard)
+pajero#
+pajillero#Wanker
+panocha#
+paragua#used in reference to Paraguayans in Argentina.
+payaso#
+payoponi#is a Caló word widely used in Spain referred to native looking Central and South-Americans. It is composed by payo (lit. non Romani person) and poni (lit. pony, due to their average height).
+\bpedo\b#
+pelotas#literally: "balls"
+pendejo#(according to the Diccionario de la lengua española de la Real Academia Española, lit.: "a pubic hair' is, according to the Chicano poet José Antonio Burciaga, "basically describes someone who is stupid or does something stupid."
+pend(ó|o)n#Slob
+peras#literally: "pears"
+pervertido#
+pezón#
+picha#Dick
+pichacorta#
+pinacate#(lit.: dung beetle)-mostly used by Mexicans or Mexican-Americans referring to dark-skinned or black individuals, similar to English "blackie".
+pinche#
+pinga#
+pinnus#
+pirata#(lit.: Pirate). Used in Argentina to refer to an English people.
+\bpis\b#
+polaco#(lit.: Pole) used in Spain in reference to Catalan people. Its origin is unclear.
+polla#(lit.: "female pollo", i.e.: chicken or hen) is used in Spain, Nicaragua, El Salvador and to a lesser extent in Puerto Rico.
+poll(ó|o)n#Dick
+polvo#To ejaculate
+potorro#Vagina
+prieto#Used to describe dark people.
+prostituta#
+put(o|a)#Bitch/whore
+racista#
+ramera#
+remojar el cochayuyo# (lit.: to soak the cochayuyo)—used in Chile. The expression alludes to the cochayuyo algae that is harvested on Chile's coast. The algae is preserved by sun-drying. To be used for cooking, it then needs to be softened by soaking in water.
+roto#used in reference to Chileans in Peru and Bolivia
+sádico#
+semen#
+soplagaitas#
+Soplapollas
+sudaca# in spite of its etymology (sudamericano, "South American"), is a derogative term used in Spain for all Latin Americans, South American or Central American in origin. In Mexico, the term is solely used to refer to people from South America.
+tano#(from Napolitano: Neapolitan). Used in Argentina, Uruguay and Paraguay as a synecdoche, to refer to an Italian. Not offensive, at this time.
+tetas grandes#
+tía( )*buena#
+tontopollas#
+tortillera#Lesbian
+tragaleche#(lit.: "milk-swallower," with "milk" as a metaphor for 'semen').
+tragasables#(lit.: "sword-swallower")
+travesti#
+\btrio\b#
+trucha#(lit.: "trout")
+verga#(lit.: a "yardarm"—a part of a ship's mast that holds the sails) occurs in a number of Romance languages, including Portuguese and Italian.
+vete( )*a( )*la( )*mierda#
+yorugua#used in reference to Uruguayans in Argentina (Uruguayo in vesre).
+zángano#
+zopupla#
+zorr(ó|o|a)(n)?#To be/act slutty
+
+
+		Персидский
+
+
+1
+
+
+		Финский
+
+
+2
+
+
+		Француский
+
+
+3
+
+
+		Хинди
+
+
+4
+
+
+		Хуругуай
+
+
+5
+
+
+		Италианский
+
+
+6
+
+
+		Японский
+
+
+7
+
+
+		Корейский
+
+
+8
+
+
+		Норвежский
+
+
+0
+
+
+		Вьетнамский
+
+
+0
+
+
+		Польский
+
+
+0
+
+
+		Португальский
+
+
+0
+
+
+		Русский
+
+
+0
+
+
+		Шведский
+
+
+0
+
+
+		Турецкий
+
+
+0
+
+
+		Вьетнамский
+
+
+0
+
+
+		Китайский
+
+
+0		
