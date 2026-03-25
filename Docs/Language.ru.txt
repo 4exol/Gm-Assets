@@ -116,6 +116,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+	<data name="&lt;notification_permisions&gt;" xml:space="preserve">
+		<value>Включите уведомления, чтобы быть в курсе важных событий, наград и приглашений в матчи.
+Вы можете отключить их в любое время в настройках системы</value>
+	</data>
 	<data name="10 Cups Of Coffee To Developer" xml:space="preserve">
 		<value>10 Чашек Кофе
 Разработчику</value>
@@ -213,6 +217,10 @@
 	</data>
 	<data name="AWARDS :" xml:space="preserve">
 		<value>НАГРАДЫ :</value>
+	</data>
+	<data name="AWARDS CALENDAR" xml:space="preserve">
+		<value>КАЛЕНДАРЬ
+НАГРАД</value>
 	</data>
 	<data name="Awards count" xml:space="preserve">
 		<value>Наград</value>
@@ -398,6 +406,9 @@
 	</data>
 	<data name="connected" xml:space="preserve">
 		<value>подключился</value>
+	</data>
+	<data name="Connecting to game server" xml:space="preserve">
+		<value>Подключаемся к серверу</value>
 	</data>
 	<data name="CONNECTION" xml:space="preserve">
 		<value>ПОДКЛЮЧЕНИЕ</value>
@@ -604,6 +615,9 @@
 	<data name="EmailAddressNotAvailable" xml:space="preserve">
 		<value>Имейл уже зарегистрирован</value>
 	</data>
+	<data name="EMPTY" xml:space="preserve">
+		<value>ПУСТО</value>
+	</data>
 	<data name="ENABLE" xml:space="preserve">
 		<value>ВКЛЮЧИТЬ</value>
 	</data>
@@ -654,6 +668,12 @@
 	</data>
 	<data name="Favorite" xml:space="preserve">
 		<value>Избранное</value>
+	</data>
+	<data name="Fetching your data" xml:space="preserve">
+		<value>Загрузка ваших данных</value>
+	</data>
+	<data name="Fetching your friends" xml:space="preserve">
+		<value>Загрузка друзей</value>
 	</data>
 	<data name="Filter" xml:space="preserve">
 		<value>Фильтр</value>
@@ -724,6 +744,9 @@
 	</data>
 	<data name="GET MORE" xml:space="preserve">
 		<value>ПОПОЛНИТЬ</value>
+	</data>
+	<data name="Getting your items" xml:space="preserve">
+		<value>Загружаем инвентарь</value>
 	</data>
 	<data name="GIFTS" xml:space="preserve">
 		<value>ПОДАРКИ</value>
@@ -1605,6 +1628,9 @@
 	</data>
 	<data name="SIGN UP" xml:space="preserve">
 		<value>РЕГИСТРАЦИЯ</value>
+	</data>
+	<data name="Signing in" xml:space="preserve">
+		<value>Входим в аккаунт</value>
 	</data>
 	<data name="Silver" xml:space="preserve">
 		<value>Серебро</value>

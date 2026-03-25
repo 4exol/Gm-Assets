@@ -116,6 +116,10 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+	<data name="&lt;notification_permisions&gt;" xml:space="preserve">
+		<value>Önemli etkinlikler, ödüller ve maç davetiyeleri hakkında bilgi sahibi olmak için bildirimleri etkinleştirin.
+Sistem ayarlarından istediğiniz zaman bu bildirimleri devre dışı bırakabilirsiniz.</value>
+	</data>
 	<data name="10 Cups Of Coffee To Developer" xml:space="preserve">
 		<value>Geliştiriclere 10 bardak kahve</value>
 	</data>
@@ -206,6 +210,10 @@ Hats Pack</value>
 	</data>
 	<data name="AWARDS :" xml:space="preserve">
 		<value>ÖDÜLLER :</value>
+	</data>
+	<data name="AWARDS CALENDAR" xml:space="preserve">
+		<value>ÖDÜLLER
+TAKVİMİ</value>
 	</data>
 	<data name="Awards count" xml:space="preserve">
 		<value>Ödül Sayısı</value>
@@ -390,6 +398,9 @@ Kendi sunucunuzu OLUŞTURUN</value>
 	</data>
 	<data name="connected" xml:space="preserve">
 		<value>bağlandı</value>
+	</data>
+	<data name="Connecting to game server" xml:space="preserve">
+		<value>Oyun sunucusuna bağlanılıyor</value>
 	</data>
 	<data name="CONNECTION" xml:space="preserve">
 		<value>Bağ</value>
@@ -592,6 +603,9 @@ Kazanan en çok sayı alann oyuncu olur</value>
 	<data name="EmailAddressNotAvailable" xml:space="preserve">
 		<value>EmailAddressNotAvailable</value>
 	</data>
+	<data name="EMPTY" xml:space="preserve">
+		<value>BOŞ</value>
+	</data>
 	<data name="ENABLE" xml:space="preserve">
 		<value>etkinleştirme</value>
 	</data>
@@ -642,6 +656,12 @@ Kazanan en çok sayı alann oyuncu olur</value>
 	</data>
 	<data name="Favorite" xml:space="preserve">
 		<value>Favori</value>
+	</data>
+	<data name="Fetching your data" xml:space="preserve">
+		<value>Verileriniz yükleniyor</value>
+	</data>
+	<data name="Fetching your friends" xml:space="preserve">
+		<value>Arkadaşlarınız yükleniyor</value>
 	</data>
 	<data name="Filter" xml:space="preserve">
 		<value>Filtre</value>
@@ -711,6 +731,9 @@ Kazanan en çok sayı alann oyuncu olur</value>
 	</data>
 	<data name="GET MORE" xml:space="preserve">
 		<value>DAHA FAZLA</value>
+	</data>
+	<data name="Getting your items" xml:space="preserve">
+		<value>Eşyalarınız yükleniyor</value>
 	</data>
 	<data name="GIFTS" xml:space="preserve">
 		<value>HEDIYELER</value>
@@ -1577,6 +1600,9 @@ Bilgi</value>
 	</data>
 	<data name="SIGN UP" xml:space="preserve">
 		<value>KAYDOL</value>
+	</data>
+	<data name="Signing in" xml:space="preserve">
+		<value>Hesaba giriş yapılıyor</value>
 	</data>
 	<data name="Silver" xml:space="preserve">
 		<value>Gümüş</value>
