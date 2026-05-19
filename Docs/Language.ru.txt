@@ -203,6 +203,9 @@
 	<data name="ArmsRace" xml:space="preserve">
 		<value>Гонка Вооружений</value>
 	</data>
+	<data name="ATTACKERS" xml:space="preserve">
+		<value>НАПАДАЮЩИЕ</value>
+	</data>
 	<data name="AVATAR" xml:space="preserve">
 		<value>АВАТАР</value>
 	</data>
@@ -260,6 +263,9 @@
 	</data>
 	<data name="BODYGUARD" xml:space="preserve">
 		<value>ОХРАНА</value>
+	</data>
+	<data name="BombDefuse" xml:space="preserve">
+		<value>Разминирование</value>
 	</data>
 	<data name="BONUS" xml:space="preserve">
 		<value>БОНУС</value>
@@ -525,6 +531,9 @@
 	<data name="Default" xml:space="preserve">
 		<value>Обычный</value>
 	</data>
+	<data name="DEFENDERS" xml:space="preserve">
+		<value>ЗАЩИТНИКИ</value>
+	</data>
 	<data name="DENY" xml:space="preserve">
 		<value>ОТКЛОНИТЬ</value>
 	</data>
@@ -788,6 +797,9 @@
 	</data>
 	<data name="Graphics Settings" xml:space="preserve">
 		<value>Настройки Графики</value>
+	</data>
+	<data name="GRENADES" xml:space="preserve">
+		<value>ГРАНАТЫ</value>
 	</data>
 	<data name="Handful of Coins" xml:space="preserve">
 		<value>Горсть Монет</value>

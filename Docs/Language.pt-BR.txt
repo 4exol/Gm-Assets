@@ -195,6 +195,9 @@ Você pode desativá-las a qualquer momento nas configurações do sistema.</val
 	<data name="ArmsRace" xml:space="preserve">
 		<value />
 	</data>
+	<data name="ATTACKERS" xml:space="preserve">
+		<value>ATACANTES</value>
+	</data>
 	<data name="AVATAR" xml:space="preserve">
 		<value />
 	</data>
@@ -252,6 +255,9 @@ DE PRÊMIOS</value>
 	</data>
 	<data name="BODYGUARD" xml:space="preserve">
 		<value>BODYGUARD</value>
+	</data>
+	<data name="BombDefuse" xml:space="preserve">
+		<value>Desarmar a bomba</value>
 	</data>
 	<data name="BONUS" xml:space="preserve">
 		<value>BONUS</value>
@@ -508,6 +514,9 @@ DE PRÊMIOS</value>
 	<data name="Default" xml:space="preserve">
 		<value />
 	</data>
+	<data name="DEFENDERS" xml:space="preserve">
+		<value>DEFENSORES</value>
+	</data>
 	<data name="DENY" xml:space="preserve">
 		<value />
 	</data>
@@ -759,6 +768,9 @@ DE PRÊMIOS</value>
 	</data>
 	<data name="Graphics Settings" xml:space="preserve">
 		<value />
+	</data>
+	<data name="GRENADES" xml:space="preserve">
+		<value>GRANADAS</value>
 	</data>
 	<data name="Handful of Coins" xml:space="preserve">
 		<value />

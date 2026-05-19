@@ -116,6 +116,9 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
+	<data name="&lt;notification_permisions&gt;" xml:space="preserve">
+		<value>notification permisions text</value>
+	</data>
 	<data name="10 Cups Of Coffee To Developer" xml:space="preserve">
 		<value>10 Cups Of Coffee To Developer</value>
 	</data>
@@ -206,6 +209,10 @@
 	<data name="AWARDS :" xml:space="preserve">
 		<value>AWARDS :</value>
 	</data>
+	<data name="AWARDS CALENDAR" xml:space="preserve">
+		<value>AWARDS
+CALENDAR</value>
+	</data>
 	<data name="Awards count" xml:space="preserve">
 		<value>Awards count</value>
 	</data>
@@ -244,6 +251,9 @@
 	</data>
 	<data name="BODYGUARD" xml:space="preserve">
 		<value>BODYGUARD</value>
+	</data>
+	<data name="BombDefuse" xml:space="preserve">
+		<value>BombDefuse</value>
 	</data>
 	<data name="BONUS" xml:space="preserve">
 		<value>BONUS</value>
@@ -390,6 +400,9 @@ that you are 18 or older</value>
 	</data>
 	<data name="connected" xml:space="preserve">
 		<value>connected</value>
+	</data>
+	<data name="Connecting to game server" xml:space="preserve">
+		<value>Connecting to game server</value>
 	</data>
 	<data name="CONNECTION" xml:space="preserve">
 		<value>CONNECTION</value>
@@ -586,6 +599,9 @@ PARENT CONTROL?</value>
 	<data name="EmailAddressNotAvailable" xml:space="preserve">
 		<value>EmailAddressNotAvailable</value>
 	</data>
+	<data name="EMPTY" xml:space="preserve">
+		<value>EMPTY</value>
+	</data>
 	<data name="ENABLE" xml:space="preserve">
 		<value>ENABLE</value>
 	</data>
@@ -636,6 +652,12 @@ PARENT CONTROL?</value>
 	</data>
 	<data name="Favorite" xml:space="preserve">
 		<value>Favorite</value>
+	</data>
+	<data name="Fetching your data" xml:space="preserve">
+		<value>Fetching your data</value>
+	</data>
+	<data name="Fetching your friends" xml:space="preserve">
+		<value>Fetching your friends</value>
 	</data>
 	<data name="Filter" xml:space="preserve">
 		<value>Filter</value>
@@ -706,6 +728,9 @@ IS EMPTY</value>
 	</data>
 	<data name="GET MORE" xml:space="preserve">
 		<value>GET MORE</value>
+	</data>
+	<data name="Getting your items" xml:space="preserve">
+		<value>Getting your items</value>
 	</data>
 	<data name="GIFTS" xml:space="preserve">
 		<value>GIFTS</value>
@@ -1204,6 +1229,9 @@ To select</value>
 	<data name="Personal Message" xml:space="preserve">
 		<value>Personal Message</value>
 	</data>
+	<data name="PHHunter" xml:space="preserve">
+		<value>PHHunter</value>
+	</data>
 	<data name="PICK UP" xml:space="preserve">
 		<value>PICK UP</value>
 	</data>
@@ -1533,6 +1561,9 @@ information</value>
 	</data>
 	<data name="SIGN UP" xml:space="preserve">
 		<value>SIGN UP</value>
+	</data>
+	<data name="Signing in" xml:space="preserve">
+		<value>Signing in</value>
 	</data>
 	<data name="Silver" xml:space="preserve">
 		<value>Silver</value>
@@ -1895,7 +1926,13 @@ invite friends whith your code</value>
 	<data name="Сaught" xml:space="preserve">
 		<value>Сaught</value>
 	</data>
-	<data name="PHHunter" xml:space="preserve">
-		<value>PHHunter</value>
+	<data name="ATTACKERS" xml:space="preserve">
+		<value>ATTACKERS</value>
+	</data>
+	<data name="DEFENDERS" xml:space="preserve">
+		<value>DEFENDERS</value>
+	</data>
+	<data name="GRENADES" xml:space="preserve">
+		<value>GRENADES</value>
 	</data>
 </root>

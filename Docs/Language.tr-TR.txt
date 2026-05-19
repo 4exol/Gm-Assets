@@ -196,6 +196,9 @@ Hats Pack</value>
 	<data name="ArmsRace" xml:space="preserve">
 		<value>ArmsRace</value>
 	</data>
+	<data name="ATTACKERS" xml:space="preserve">
+		<value>SALDIRGANLAR</value>
+	</data>
 	<data name="AVATAR" xml:space="preserve">
 		<value>AVATAR</value>
 	</data>
@@ -253,6 +256,9 @@ TAKVİMİ</value>
 	</data>
 	<data name="BODYGUARD" xml:space="preserve">
 		<value>BODYGUARD</value>
+	</data>
+	<data name="BombDefuse" xml:space="preserve">
+		<value>Bomba İmha Etme</value>
 	</data>
 	<data name="BONUS" xml:space="preserve">
 		<value>BONUS</value>
@@ -518,6 +524,9 @@ Kazanan en çok sayı alann oyuncu olur</value>
 	<data name="Default" xml:space="preserve">
 		<value>Varsayılan</value>
 	</data>
+	<data name="DEFENDERS" xml:space="preserve">
+		<value>SAVUNMACILAR</value>
+	</data>
 	<data name="DENY" xml:space="preserve">
 		<value>REDDETMEK</value>
 	</data>
@@ -775,6 +784,9 @@ Yeni oyuncularla sohbet edin ve arkadaş listenize ekleyin </value>
 	</data>
 	<data name="Graphics Settings" xml:space="preserve">
 		<value>Grafik Ayarları</value>
+	</data>
+	<data name="GRENADES" xml:space="preserve">
+		<value>EL BOMBALARI</value>
 	</data>
 	<data name="Handful of Coins" xml:space="preserve">
 		<value>Avuç bozuk para</value>
